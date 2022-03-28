@@ -53,9 +53,11 @@ public class LoginPage extends ParentPage{
 
     public boolean isAlertIsVisible()  { //метод для обработки ексепшена(попробуй найти кнопку,если нет-верни фолс)
         try {
+            logger.info("Alert is displayed");
             return alertMessage.isDisplayed();
         } catch (Exception e) {
             return false;
+
         }
     }
     public HomePage loginWithValidCredits()  {

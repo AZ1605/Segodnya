@@ -29,7 +29,7 @@ public class BaseTest {
         bookPage = new BookPage(webDriver);
     }
 
-   @After
+  //@After
     public void tearDown(){
         webDriver.quit();
         logger.info("Browser was closed");

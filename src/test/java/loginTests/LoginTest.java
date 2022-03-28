@@ -1,10 +1,11 @@
 package loginTests;
 
 import baseTest.BaseTest;
-import org.junit.Assert;
 import org.junit.Test;
 
 public class LoginTest extends BaseTest {
+    final String userName= "Вітаємо, Алена";
+
     @Test
     public void validLoginTest() {
         loginPage.openLoginPage();
@@ -12,7 +13,7 @@ public class LoginTest extends BaseTest {
         loginPage.enterLoginIntoLoginField("chillywillyshpili@ukr.net");
         loginPage.enterPasswordIntoPasswordField("Hvq53zzz");
         loginPage.clickOnButtonSubmit();
-        Assert.assertTrue("UserName is not visible", homePage.isUserNameIsVisible());
+        homePage.checkIsUserNameIsVisible(userName);
     }
         @Test
         public void invalidLoginTest(){
