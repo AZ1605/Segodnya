@@ -1,6 +1,6 @@
 package pages;
+
 import org.junit.Assert;
-import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -52,17 +52,11 @@ public class HomePage extends  ParentPage {
         ClickOnElement(buttonSearch);
     }
 
-    public void clickOnPopUp() {
-        webDriverWait.until(ExpectedConditions.visibilityOf(alert));
-        Alert alert = webDriver.switchTo().alert();
-        alert.accept();
-
-    }
-    public void checkSearchOnHomePage() {
-        inputTextIntoSearchOnHomePage("Кинг");
-        //clickOnPopUp();
-        clickOnButtonSearch();
-    }
+//   public void checkSearchOnHomePage() {
+//        inputTextIntoSearchOnHomePage("Кинг");
+//        //clickOnPopUp();
+//        clickOnButtonSearch();
+//    }
     public HomePage chooseRandomItemInMenu() {
         List<WebElement> listings = webDriver.findElements(By.xpath("//ul[@class='nav nav-pills nav-stacked parent-menu']//li"));
         Random r = new Random();

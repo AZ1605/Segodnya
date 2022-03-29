@@ -1,17 +1,14 @@
 package homePageTests;
 import baseTest.BaseTest;
 import org.junit.Test;
-import org.junit.jupiter.api.extension.ExtendWith;
-import org.openqa.selenium.remote.ScreenshotException;
+
 
 
 public class HomePageTest extends BaseTest {
     @Test
-    //@ExtendWith({ScreenshotException.class})
-
     public void SearchOnHomePage() {
         loginPage.openLoginPage();
-        homePage.checkSearchOnHomePage();
+       // homePage.checkSearchOnHomePage();
     }
 
     @Test

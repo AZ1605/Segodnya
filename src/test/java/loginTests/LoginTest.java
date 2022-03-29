@@ -1,5 +1,4 @@
 package loginTests;
-
 import baseTest.BaseTest;
 import org.junit.Test;
 
