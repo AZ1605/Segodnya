@@ -2,8 +2,6 @@ package homePageTests;
 import baseTest.BaseTest;
 import org.junit.Test;
 
-
-
 public class HomePageTest extends BaseTest {
     @Test
     public void SearchOnHomePage() {
@@ -14,24 +12,26 @@ public class HomePageTest extends BaseTest {
     @Test
     public void InterestedBookOnHomePage() {
         loginPage.openLoginPage();
-        bookPage.chooseRandomBook();
+        loginPage.chooseRandomBookOnLoginPage();
         bookPage.checkTitle();
         bookPage.AddBookToBasket();
     }
     @Test
     public void SelectInCatalogeOnHomePage() {
         loginPage.openLoginPage();
-        homePage.chooseRandomItemInMenu();
-//        homePage.chooseRandomItemInSecondMenu();
-//        bookPage.checkIsSectionTitleIsVisible();
-
+        homePage.chooseRandomItemInFirst();
+        homePage.chooseRandomItemInSecond();
     }
     @Test
     public void InterestedBookOnHomePage2() {
         loginPage.openLoginPage();
-        bookPage.chooseRandomBook();
+        loginPage.chooseRandomBookOnLoginPage();
         bookPage.checkTitle();
         bookPage.AddBookToBasket();
+        loginPage.clickOnLogo();
+        loginPage.clickOnBasket();
+        loginPage.clickOnCheckout();
+
     }
 
 }

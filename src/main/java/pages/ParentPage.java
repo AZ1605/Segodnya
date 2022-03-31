@@ -1,10 +1,14 @@
 package pages;
+
 import org.apache.log4j.Logger;
 import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.WebDriverWait;
+
+import java.util.List;
+import java.util.Random;
 
 
 //cодержатся действия для пейджей
@@ -59,6 +63,15 @@ public class ParentPage {
         logger.error("Cant work with element" + e);
         Assert.fail("Cant work with element" + e);
     }
-
+    protected void clickOnRandomItem(List<WebElement> webElement) { //метод для клики на кнопки все страницы
+        try {
+            List<WebElement> listings = webElement;
+            Random r = new Random();
+            int randomValue = r.nextInt(listings.size()); //Getting a random value that is between 0 and (list's size)-1
+            listings.get(randomValue).click();
+        } catch (Exception e) {
+            printErrorAndStopTest(e);
+        }
+    }
 
 }

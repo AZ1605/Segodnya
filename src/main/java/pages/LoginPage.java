@@ -6,6 +6,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
+import java.util.List;
+
 public class LoginPage extends ParentPage{
     @FindBy(xpath="//input[@name='login[username]']")
     private WebElement inputLogin;
@@ -17,8 +19,15 @@ public class LoginPage extends ParentPage{
     private WebElement enterButton;
     @FindBy(xpath="//div[@id='login-message-error']")
     private WebElement alertMessage;
-    @FindBy(xpath="//ul[@id='interest_products_list_homepage_neu_current']//li[2]")
-    private WebElement randonInterestedBook;
+    @FindBy(xpath="//ul[@id='interest_products_list_homepage_neu_current']//li")
+    private List<WebElement> randomInterestedBook;
+    @FindBy(xpath="//div[@class='wrap-logo']")
+    private WebElement logoItem;
+    @FindBy(xpath="//div[@class='cart-top']")
+    private WebElement basket;
+    @FindBy(xpath="//i[@class= 'icon-shopping-cart']")
+    private WebElement checkoutButton;
+
 
     public LoginPage(WebDriver webDriver) {
         super(webDriver);
@@ -67,6 +76,26 @@ public class LoginPage extends ParentPage{
         enterPasswordIntoPasswordField(TestData.VALID_PASSWORD);
         clickOnButtonSubmit();
         return new HomePage(webDriver);
+    }
+    public LoginPage chooseRandomBookOnLoginPage() {
+        clickOnRandomItem(randomInterestedBook);
+        logger.info("Random Book was choosen");
+        return this;
+    }
+    public LoginPage clickOnLogo() {
+      logoItem.click();
+        logger.info("Logo was clicked");
+        return this;
+    }
+    public LoginPage clickOnBasket() {
+        basket.click();
+        logger.info("Basket was clicked");
+        return this;
+    }
+    public LoginPage clickOnCheckout() {
+        checkoutButton.click();
+        logger.info("Checkout was clicked");
+        return this;
     }
     }
 
