@@ -2,11 +2,14 @@ package homePageTests;
 import baseTest.BaseTest;
 import org.junit.Test;
 
+import java.awt.*;
+
 public class HomePageTest extends BaseTest {
     @Test
-    public void SearchOnHomePage() {
+    public void SearchOnHomePage() throws AWTException {
         loginPage.openLoginPage();
-       // homePage.checkSearchOnHomePage();
+        loginPage.clickOnAlert();
+        loginPage.clickOnAlert2();
     }
 
     @Test
@@ -30,7 +33,10 @@ public class HomePageTest extends BaseTest {
         bookPage.AddBookToBasket();
         loginPage.clickOnLogo();
         loginPage.clickOnBasket();
-        loginPage.clickOnCheckout();
+        //loginPage.clickOnCheckout();
+        basketPage.deleteFromBasket();
+        basketPage.isEmptyMessageIsVisible("Кошик порожній");
+        //loginPage.clickOnAlert();
 
     }
 

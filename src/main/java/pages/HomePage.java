@@ -21,7 +21,7 @@ public class HomePage extends  ParentPage {
     private WebElement popUpYes;
     @FindBy(xpath = "//ul[@class='nav nav-pills nav-stacked parent-menu']//li")
     private List<WebElement> upperMenu;
-    @FindBy(xpath = "//ul[@class='menu-first-level']//li[1]")
+    @FindBy(xpath = "//ul[@class='menu-first-level']//li//a")
     private List<WebElement> randomValueInSecondMenu;
     @FindBy(xpath = "//span[@data-customer='firstname']")
     private WebElement userName;
@@ -48,11 +48,10 @@ public class HomePage extends  ParentPage {
         ClickOnElement(buttonSearch);
     }
 
-//   public void checkSearchOnHomePage() {
-//        inputTextIntoSearchOnHomePage("Кинг");
-//        //clickOnPopUp();
-//        clickOnButtonSearch();
-//    }
+  public void checkSearchOnHomePage() {
+       inputTextIntoSearchOnHomePage("Кинг");
+       clickOnButtonSearch();
+  }
 
 
     public HomePage chooseRandomItemInFirst() {

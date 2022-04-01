@@ -21,7 +21,7 @@ public class ParentPage {
     public ParentPage(WebDriver webDriver) { //передаем во все пейджи драйвер
         this.webDriver = webDriver;
         PageFactory.initElements(webDriver, this);//инизиализация элементов ФАЙНД БАЙ для всех страниц
-        webDriverWait = new WebDriverWait(webDriver, 10);
+        webDriverWait = new WebDriverWait(webDriver, 30);
         webDriverWait2 = new WebDriverWait(webDriver, 2);
 
     }
