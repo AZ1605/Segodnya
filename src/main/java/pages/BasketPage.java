@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-    public class BasketPage extends ParentPage {
+public class BasketPage extends ParentPage {
         public BasketPage(WebDriver webDriver) {
             super(webDriver);
         }
@@ -22,13 +22,13 @@ import org.openqa.selenium.support.FindBy;
             deleteButtonInsideBasketPopup.click();
             logger.info("Items are deleted");
         }
-            public boolean isEmptyMessageIsVisible(String text)  {
+            public boolean isEmptyMessageIsVisible()  {
                 try {
                     logger.info("Alert is displayed");
                     return emptyMessage.isDisplayed();
                 } catch (Exception e) {
                     return false;
-
                 }
         }
-}
+
+    }

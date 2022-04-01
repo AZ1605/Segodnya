@@ -1,22 +1,21 @@
 package homePageTests;
+
 import baseTest.BaseTest;
 import org.junit.Test;
 
-import java.awt.*;
-
 public class HomePageTest extends BaseTest {
     @Test
-    public void SearchOnHomePage() throws AWTException {
+    public void SearchOnHomePage()  {
         loginPage.openLoginPage();
         loginPage.clickOnAlert();
-        loginPage.clickOnAlert2();
+        loginPage.clickOnDiscountPopUp();
     }
-
     @Test
     public void InterestedBookOnHomePage() {
         loginPage.openLoginPage();
         loginPage.chooseRandomBookOnLoginPage();
         bookPage.checkTitle();
+        loginPage.clickOnDiscountPopUp();
         bookPage.AddBookToBasket();
     }
     @Test
@@ -26,16 +25,15 @@ public class HomePageTest extends BaseTest {
         homePage.chooseRandomItemInSecond();
     }
     @Test
-    public void InterestedBookOnHomePage2() {
+    public void AddingBookToBasketAndRemove() {
         loginPage.openLoginPage();
         loginPage.chooseRandomBookOnLoginPage();
         bookPage.checkTitle();
         bookPage.AddBookToBasket();
         loginPage.clickOnLogo();
         loginPage.clickOnBasket();
-        //loginPage.clickOnCheckout();
         basketPage.deleteFromBasket();
-        basketPage.isEmptyMessageIsVisible("Кошик порожній");
+        basketPage.isEmptyMessageIsVisible();
         //loginPage.clickOnAlert();
 
     }

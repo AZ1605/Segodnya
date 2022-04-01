@@ -21,7 +21,7 @@ public class LoginTest extends BaseTest {
             loginPage.enterLoginIntoLoginField("chillywillyshpili@ukr.net1");
             loginPage.enterPasswordIntoPasswordField("Hvq53zzz1");
             loginPage.clickOnButtonSubmit();
-            loginPage.isAlertIsVisible();
+            loginPage.checkIsAlertIsVisible();
 
     }
 

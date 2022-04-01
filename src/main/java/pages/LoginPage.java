@@ -6,11 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.ExpectedConditions;
-
-import java.awt.*;
-import java.awt.event.InputEvent;
 import java.util.List;
-
 public class LoginPage extends ParentPage {
     @FindBy(xpath = "//input[@name='login[username]']")
     private WebElement inputLogin;
@@ -32,6 +28,7 @@ public class LoginPage extends ParentPage {
     private WebElement alert;
     @FindBy(xpath = "//div[@class='name']")
     private WebElement randomInterestedBookTitleOnHomepage;
+
     public LoginPage(WebDriver webDriver) {
         super(webDriver);
     }
@@ -46,6 +43,7 @@ public class LoginPage extends ParentPage {
             Assert.fail("Cant open login page" + e);//выводит сообщение в отчеты
         }
     }
+
     public void clickOnButtonEnter() {
         ClickOnElement(enterButton);
     }
@@ -66,15 +64,7 @@ public class LoginPage extends ParentPage {
         logger.error("Cant work with element" + e);
         Assert.fail("Cant work with element" + e);
     }
-    public boolean isAlertIsVisible() { //метод для обработки ексепшена(попробуй найти кнопку,если нет-верни фолс)
-        try {
-            logger.info("Alert is displayed");
-            return alertMessage.isDisplayed();
-        } catch (Exception e) {
-            return false;
 
-        }
-    }
     public HomePage loginWithValidCredits() {
         openLoginPage();
         clickOnButtonEnter();
@@ -83,7 +73,6 @@ public class LoginPage extends ParentPage {
         clickOnButtonSubmit();
         return new HomePage(webDriver);
     }
-
     public LoginPage chooseRandomBookOnLoginPage() {
         clickOnRandomItem(randomInterestedBook);
         logger.info("Random Book was choosen");
@@ -94,28 +83,47 @@ public class LoginPage extends ParentPage {
         logger.info("Logo was clicked");
         return this;
     }
-
     public LoginPage clickOnBasket() {
         basket.click();
         logger.info("Basket was clicked");
         return this;
     }
 
-    public boolean clickOnAlert() throws AWTException {
-        try {
-            Robot robot = new Robot();
-            robot.mouseMove(1050, 220);
-            robot.mousePress(InputEvent.BUTTON3_DOWN_MASK);
-            logger.info("Popup was clicked");
-            return true;
-        } catch (Exception e) {
-            return false;
-        }
-    }
-    public LoginPage clickOnAlert2() {
+    //    public boolean clickOnAlert() throws AWTException {
+//        try {
+//            Robot robot = new Robot();
+//            robot.mouseMove(900, 220);
+//            robot.mousePress(InputEvent.BUTTON3_DOWN_MASK);
+//            robot.mouseRelease(InputEvent.BUTTON3_DOWN_MASK);
+//            logger.info("Popup was clicked");
+//            return true;
+//        } catch (Exception e) {
+//            return false;
+//        }
+//    }
+    public LoginPage clickOnDiscountPopUp() {
         webDriverWait.until(ExpectedConditions.visibilityOf(alert));
         alert.click();
-        logger.info("Popup was clicked again");
+        logger.info("Popup with discount was clicked");
         return this;
     }
+
+    public LoginPage clickOnAlert() {
+        try {
+            if (webDriverWait.until(ExpectedConditions.alertIsPresent()) == null) {
+            } else
+                webDriver.switchTo().alert().dismiss();
+            logger.info("Popup was clicked");
+            return this;
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return this;
     }
+
+    public boolean checkIsAlertIsVisible() {//метод для обработки ексепшена(попробуй найти кнопку,если нет-верни фолс)
+        Assert.assertFalse("Alert is not displayed", alertMessage.isDisplayed());
+        logger.info("Alert was displayed");
+        return false;
+    }
+}

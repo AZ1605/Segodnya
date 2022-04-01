@@ -37,13 +37,11 @@ public class HomePage extends  ParentPage {
         logger.info(userName + " was displayed");
         return this;
     }
-
     public HomePage inputTextIntoSearchOnHomePage(String text) {
         webDriverWait.until(ExpectedConditions.visibilityOf(inputSearch));
         inputTextIntoElement(inputSearch, text);
         return this;
     }
-
     public void clickOnButtonSearch() {
         ClickOnElement(buttonSearch);
     }
@@ -52,8 +50,6 @@ public class HomePage extends  ParentPage {
        inputTextIntoSearchOnHomePage("Кинг");
        clickOnButtonSearch();
   }
-
-
     public HomePage chooseRandomItemInFirst() {
         clickOnRandomItem(upperMenu);
         logger.info("Random Item was clicked in first menu");
