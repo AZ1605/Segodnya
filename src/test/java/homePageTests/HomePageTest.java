@@ -7,15 +7,16 @@ public class HomePageTest extends BaseTest {
     @Test
     public void SearchOnHomePage()  {
         loginPage.openLoginPage();
-        loginPage.clickOnAlert();
-        loginPage.clickOnDiscountPopUp();
+        homePage.checkSearchOnHomePage();
+        bookPage.checkCountOfBooks2();
+
     }
     @Test
     public void InterestedBookOnHomePage() {
         loginPage.openLoginPage();
         loginPage.chooseRandomBookOnLoginPage();
         bookPage.checkTitle();
-        loginPage.clickOnDiscountPopUp();
+        //loginPage.clickOnDiscountPopUp();
         bookPage.AddBookToBasket();
     }
     @Test
@@ -25,17 +26,16 @@ public class HomePageTest extends BaseTest {
         homePage.chooseRandomItemInSecond();
     }
     @Test
-    public void AddingBookToBasketAndRemove() {
+    public void AddingBookToBasketAndRemove() throws InterruptedException {
         loginPage.openLoginPage();
         loginPage.chooseRandomBookOnLoginPage();
+        Thread.sleep(1000);
         bookPage.checkTitle();
         bookPage.AddBookToBasket();
         loginPage.clickOnLogo();
         loginPage.clickOnBasket();
         basketPage.deleteFromBasket();
         basketPage.isEmptyMessageIsVisible();
-        //loginPage.clickOnAlert();
-
     }
 
 }

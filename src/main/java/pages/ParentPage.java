@@ -7,6 +7,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
@@ -25,6 +26,7 @@ public class ParentPage {
         webDriverWait2 = new WebDriverWait(webDriver, 2);
 
     }
+
     protected void inputTextIntoElement(WebElement webElement, String text) { //метод для ввода текста на все страницы
         try {
             webElement.sendKeys(text);
@@ -59,19 +61,38 @@ public class ParentPage {
         }
     }
 
-    private void printErrorAndStopTest(Exception e) {
+    void printErrorAndStopTest(Exception e) {
         logger.error("Cant work with element" + e);
         Assert.fail("Cant work with element" + e);
     }
-    protected void clickOnRandomItem(List<WebElement> webElement) { //метод для клики на кнопки все страницы
+
+    protected void clickOnRandomItem(List<WebElement> webElement) {
         try {
             List<WebElement> listings = webElement;
             Random r = new Random();
-            int randomValue = r.nextInt(listings.size()); //Getting a random value that is between 0 and (list's size)-1
+            int randomValue = r.nextInt(listings.size());
+
             listings.get(randomValue).click();
         } catch (Exception e) {
             printErrorAndStopTest(e);
         }
     }
+//    protected int checkSize(WebElement webElement) {
+//        try {
+//           webElement.size();
+//
+//        } catch (Exception e) {
+//            printErrorAndStopTest(e);
+//        }
+//        return int;
+//    }
+        public int checkSize(WebElement webElement) {
+            ArrayList<String> Element = new ArrayList<>();
+            int size = Element.size();
+            return size;
+        }
+    }
 
-}
+
+
+

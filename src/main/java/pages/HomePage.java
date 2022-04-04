@@ -1,7 +1,6 @@
 package pages;
 
 import org.junit.Assert;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -27,7 +26,7 @@ public class HomePage extends  ParentPage {
     private WebElement userName;
     public boolean isUserNameIsVisible() { //метод для обработки ексепшена(попробуй найти кнопку,если нет-верни фолс)
         try {
-            return webDriver.findElement(By.xpath("//span[@data-customer='firstname']")).isDisplayed();
+            return userName.isDisplayed();
         } catch (Exception e) {
             return false;
         }
@@ -56,6 +55,7 @@ public class HomePage extends  ParentPage {
         return this;
     }
     public HomePage chooseRandomItemInSecond() {
+        webDriverWait.until(ExpectedConditions.visibilityOf((WebElement) randomValueInSecondMenu));
         clickOnRandomItem(randomValueInSecondMenu);
         logger.info("Random Item was clicked in first menu");
         return this;

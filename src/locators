@@ -19,3 +19,5 @@ https://gyazo.com/29747ed24d3169676c9f4bbd156efea1?token=5afd4debd2707987e8b40c2
 
 ////ul[@id='interest_products_list_homepage_neu_current']//li[3]//button -купить
 //div[@class='side_left clearfix']//button[@title='Купити'] - купить внутри
+
+//li[@class='item last'][3] -внутри списка Кинг
