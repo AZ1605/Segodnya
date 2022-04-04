@@ -1,0 +1,23 @@
+//*[contains(@id,'teg')]
+count[//contains(@id,'teg')]
+//td[contains(text(),'Taras']//..//td[2]- work with cells in tables
+https://gyazo.com/8b005502ec2c48fbc552da6626d8124b
+git-stash-отложить изменения
+имя класса с большой,пекадж-нет
+precondition and post condition, logger in BaseTest java
+https://gyazo.com/29747ed24d3169676c9f4bbd156efea1?token=5afd4debd2707987e8b40c2aba64aa8c
+
+
+
+
+//ul[@id='interest_products_list_homepage_neu_current']//li[2]
+//ul[@id='next_to_buy_neu_list']//li[2]
+//ul[@class='cms-list']//li[2]
+//ul[@class='nav nav-pills nav-stacked additional-menu']//li[2]
+//div[@class='block-content']//ul//li[4]\
+//ul[@class='nav nav-pills nav-stacked parent-menu']//li
+
+////ul[@id='interest_products_list_homepage_neu_current']//li[3]//button -купить
+//div[@class='side_left clearfix']//button[@title='Купити'] - купить внутри
+
+//li[@class='item last'][3] -внутри списка Кинг
