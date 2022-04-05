@@ -1,40 +1,49 @@
 package homePageTests;
+
 import baseTest.BaseTest;
 import org.junit.Test;
-import org.junit.jupiter.api.extension.ExtendWith;
-import org.openqa.selenium.remote.ScreenshotException;
-
 
 public class HomePageTest extends BaseTest {
     @Test
-    //@ExtendWith({ScreenshotException.class})
-
-    public void SearchOnHomePage() {
+    public void SearchOnHomePage() throws InterruptedException {
         loginPage.openLoginPage();
+        Thread.sleep(5000);
+        loginPage.clickOnPopUp();
+        loginPage.clickOnDiscountPopUp();
         homePage.checkSearchOnHomePage();
-    }
-
-    @Test
-    public void InterestedBookOnHomePage() {
-        loginPage.openLoginPage();
-        bookPage.chooseRandomBook();
-        bookPage.checkTitle();
-        bookPage.AddBookToBasket();
-    }
-    @Test
-    public void SelectInCatalogeOnHomePage() {
-        loginPage.openLoginPage();
-        homePage.chooseRandomItemInMenu();
-//        homePage.chooseRandomItemInSecondMenu();
-//        bookPage.checkIsSectionTitleIsVisible();
+        bookPage.checkCountOfBooks2();
 
     }
     @Test
-    public void InterestedBookOnHomePage2() {
+    public void InterestedBookOnHomePage() throws InterruptedException {
         loginPage.openLoginPage();
-        bookPage.chooseRandomBook();
+        Thread.sleep(5000);
+        loginPage.clickOnPopUp();
+        loginPage.chooseRandomBookOnLoginPage();
+        bookPage.checkTitle();
+        loginPage.clickOnPopUp();
+        bookPage.AddBookToBasket();
+    }
+    @Test
+    public void SelectInCatalogeOnHomePage() throws InterruptedException {
+        loginPage.openLoginPage();
+        Thread.sleep(5000);
+        loginPage.clickOnPopUp();
+        loginPage.clickOnDiscountPopUp();
+        homePage.chooseRandomItemInFirst();
+        homePage.chooseRandomItemInSecond();
+    }
+    @Test
+    public void AddingBookToBasketAndRemove() throws InterruptedException {
+        loginPage.openLoginPage();
+        loginPage.chooseRandomBookOnLoginPage();
+        Thread.sleep(1000);
         bookPage.checkTitle();
         bookPage.AddBookToBasket();
+        loginPage.clickOnLogo();
+        loginPage.clickOnBasket();
+        basketPage.deleteFromBasket();
+        basketPage.isEmptyMessageIsVisible();
     }
 
 }

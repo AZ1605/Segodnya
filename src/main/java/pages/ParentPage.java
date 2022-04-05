@@ -1,10 +1,15 @@
 package pages;
+
 import org.apache.log4j.Logger;
 import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import java.time.Duration;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Random;
 
 
 //cодержатся действия для пейджей
@@ -14,13 +19,15 @@ public class ParentPage {
     WebDriverWait webDriverWait;
     WebDriverWait webDriverWait2;
 
+
     public ParentPage(WebDriver webDriver) { //передаем во все пейджи драйвер
         this.webDriver = webDriver;
         PageFactory.initElements(webDriver, this);//инизиализация элементов ФАЙНД БАЙ для всех страниц
-        webDriverWait = new WebDriverWait(webDriver, 10);
-        webDriverWait2 = new WebDriverWait(webDriver, 2);
+        webDriverWait = new WebDriverWait (webDriver, Duration.ofSeconds(30));
+        webDriverWait2 = new WebDriverWait (webDriver, Duration.ofSeconds(10));
 
     }
+
     protected void inputTextIntoElement(WebElement webElement, String text) { //метод для ввода текста на все страницы
         try {
             webElement.sendKeys(text);
@@ -55,10 +62,41 @@ public class ParentPage {
         }
     }
 
-    private void printErrorAndStopTest(Exception e) {
+    void printErrorAndStopTest(Exception e) {
         logger.error("Cant work with element" + e);
         Assert.fail("Cant work with element" + e);
     }
 
+    protected void clickOnRandomItem(List<WebElement> webElement) {
+        try {
+            List<WebElement> listings = webElement;
+            Random r = new Random();
+            int randomValue = r.nextInt(listings.size());
 
-}
+            listings.get(randomValue).click();
+        } catch (Exception e) {
+            printErrorAndStopTest(e);
+        }
+    }
+//    protected int checkSize(WebElement webElement) {
+//        try {
+//           webElement.size();
+//
+//        } catch (Exception e) {
+//            printErrorAndStopTest(e);
+//        }
+//        return int;
+//    }
+        public int checkSize(WebElement webElement) {
+            ArrayList<String> Element = new ArrayList<>();
+            int size = Element.size();
+            return size;
+        }
+
+
+    }
+
+
+
+
+

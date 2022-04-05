@@ -1,0 +1,1089 @@
+2022-29-03 14:59:05   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-29-03 14:59:53   INFO [pages.LoginPage] : Login page was opened
+2022-29-03 15:00:01   INFO [pages.BookPage] : Book was chosen
+2022-29-03 15:00:01   INFO [pages.BookPage] : Title: Електронна книга Купи собі той довбаний букет: та інші способи зібратися докупи від тієї, котрій вдалось
+2022-29-03 15:00:07   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-29-03 15:00:55   INFO [pages.LoginPage] : Login page was opened
+2022-29-03 15:00:56   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-29-03 15:02:23   INFO [pages.LoginPage] : Login page was opened
+2022-29-03 15:02:29   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-29-03 15:04:24   INFO [pages.LoginPage] : Login page was opened
+2022-29-03 15:04:24   INFO [pages.HomePage] : Item in Menu was chosen
+2022-29-03 15:11:01   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-29-03 15:12:16   INFO [pages.LoginPage] : Login page was opened
+2022-29-03 15:12:18   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-29-03 15:13:12   INFO [pages.LoginPage] : Login page was opened
+2022-29-03 15:13:12   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-29-03 15:13:32   INFO [pages.LoginPage] : Login page was opened
+2022-29-03 15:13:33   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-29-03 15:13:40   INFO [pages.LoginPage] : Login page was opened
+2022-29-03 15:13:40   INFO [pages.HomePage] : Item in Menu was chosen
+2022-31-03 11:22:55   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 11:23:03   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 11:23:03   INFO [pages.BookPage] : Book was chosen
+2022-31-03 11:23:45   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 11:23:52   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 11:23:53   INFO [pages.BookPage] : Book was chosen
+2022-31-03 11:23:54   INFO [pages.BookPage] : Title: Тореадори з Васюківки
+2022-31-03 11:24:14   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 11:24:19   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 11:24:19   INFO [pages.HomePage] : Item in Menu was chosen
+2022-31-03 11:28:52   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 11:29:01   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 11:29:01   INFO [pages.HomePage] : Item in Menu was chosen
+2022-31-03 11:29:50   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 11:30:14   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 11:30:14   INFO [pages.HomePage] : Item in Menu was chosen
+2022-31-03 11:40:40   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 11:41:48   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 11:41:48   INFO [pages.HomePage] : Item in Menu was chosen
+2022-31-03 11:49:30   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 11:49:33   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 11:49:33   INFO [pages.HomePage] : Item in Menu was chosen
+2022-31-03 11:54:57   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 11:54:59   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 11:54:59   INFO [pages.HomePage] : Item in Menu was chosen
+2022-31-03 11:57:09   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 11:57:12   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 11:57:12   INFO [pages.HomePage] : Item in Menu was chosen
+2022-31-03 13:02:46   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 13:02:52   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 13:02:53   INFO [pages.HomePage] : Item in First Menu was chosen
+2022-31-03 13:06:13   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 13:06:20   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 13:06:20   INFO [pages.HomePage] : Item in First Menu was chosen
+2022-31-03 13:07:51   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 13:07:53   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 13:07:53   INFO [pages.HomePage] : Item in First Menu was chosen
+2022-31-03 13:11:38   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 13:11:46   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 13:11:46   INFO [pages.HomePage] : Item in First Menu was chosen
+2022-31-03 13:14:20   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 13:14:24   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 13:14:24   INFO [pages.HomePage] : Item in First Menu was chosen
+2022-31-03 13:14:28   INFO [pages.HomePage] : Item in Second Menu was chosen
+2022-31-03 13:20:24   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 13:20:31   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 13:20:31  ERROR [pages.HomePage] : Cant work with elementjava.lang.ClassCastException: class jdk.proxy2.$Proxy9 cannot be cast to class java.util.List (jdk.proxy2.$Proxy9 is in module jdk.proxy2 of loader 'app'; java.util.List is in module java.base of loader 'bootstrap')
+2022-31-03 13:23:43   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 13:23:49   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 13:23:49   INFO [pages.HomePage] : Random Item was clicked
+2022-31-03 13:23:49   INFO [pages.HomePage] : Random Item was clicked
+2022-31-03 13:23:50   INFO [pages.HomePage] : Item in First Menu was chosen
+2022-31-03 13:24:18   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 13:24:29   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 13:24:29   INFO [pages.HomePage] : Random Item was clicked
+2022-31-03 13:24:29   INFO [pages.HomePage] : Random Item was clicked
+2022-31-03 13:26:00   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 13:26:08   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 13:26:08   INFO [pages.HomePage] : Random Item was clicked
+2022-31-03 13:26:08   INFO [pages.HomePage] : Random Item was clicked
+2022-31-03 13:27:12   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 13:27:30   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 13:27:31   INFO [pages.HomePage] : Random Item was clicked
+2022-31-03 13:27:31   INFO [pages.HomePage] : Random Item was clicked
+2022-31-03 13:27:42   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 13:27:50   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 13:27:51   INFO [pages.HomePage] : Random Item was clicked
+2022-31-03 13:27:51   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-31-03 13:28:53   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 13:29:18   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 13:29:18   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-31-03 13:31:56   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 13:32:20   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 13:32:20   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-31-03 13:34:33   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 13:34:52   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 13:34:52   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-31-03 13:35:23   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 13:36:11   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 13:36:11   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-31-03 13:36:16  ERROR [pages.HomePage] : Cant work with elementorg.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62264}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 413712ba67b63dc92a3867b3b2c04497
+2022-31-03 13:40:27   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 13:41:24   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 13:41:25  ERROR [pages.LoginPage] : Cant work with elementorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <li data-product-id="1043881" class="item jcarousel-item jcarousel-item-horizontal jcarousel-item-1 jcarousel-item-1-horizontal" jcarouselindex="1" style="float: left; list-style: none; width: 166px;">...</li> is not clickable at point (707, 771). Other element would receive the click: <div class="modal-backdrop  in"></div>
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62518}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2e03a150d3309f2721f484cd1b1028b0
+2022-31-03 13:41:51   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 13:42:38   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 13:42:39  ERROR [pages.LoginPage] : Cant work with elementorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <li data-product-id="2209930" class="item jcarousel-item jcarousel-item-horizontal jcarousel-item-2 jcarousel-item-2-horizontal" jcarouselindex="2" style="float: left; list-style: none; width: 166px;">...</li> is not clickable at point (885, 771). Other element would receive the click: <div class="modal-backdrop  in"></div>
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62714}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d284c61483311842c98d4c0846dcc488
+2022-31-03 13:44:24   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 13:44:26   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 13:44:27   INFO [pages.LoginPage] : Random Book was choosen
+2022-31-03 13:44:45   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 13:44:47   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 13:44:49   INFO [pages.LoginPage] : Random Book was choosen
+2022-31-03 13:45:19   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 13:45:22   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 13:45:23   INFO [pages.LoginPage] : Random Book was choosen
+2022-31-03 13:46:39   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 13:46:42   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 13:46:45   INFO [pages.LoginPage] : Random Book was choosen
+2022-31-03 13:47:24   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 13:47:26   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 13:47:27   INFO [pages.LoginPage] : Random Book was choosen
+2022-31-03 13:47:28   INFO [pages.BookPage] : Title: Книга Программа восстановления здоровья кожи рук и ног за 28 дней
+2022-31-03 13:47:51   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 13:47:53   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 13:47:54   INFO [pages.LoginPage] : Random Book was choosen
+2022-31-03 13:49:07   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 13:49:09   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 13:49:12   INFO [pages.LoginPage] : Random Book was choosen
+2022-31-03 13:49:12   INFO [pages.BookPage] : Title: Книга Осінні пригоди білченяти
+2022-31-03 14:00:27   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 14:00:31   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 14:00:32   INFO [pages.LoginPage] : Random Book was choosen
+2022-31-03 14:00:36   INFO [pages.BookPage] : Title: Книга Енциклопедія хоробрих воїнів
+2022-31-03 14:01:40   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 14:01:45   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 14:01:45   INFO [pages.LoginPage] : Random Book was choosen
+2022-31-03 14:02:06   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 14:02:11   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 14:02:13   INFO [pages.LoginPage] : Random Book was choosen
+2022-31-03 14:02:14   INFO [pages.BookPage] : Title: Книга Осінні пригоди білченяти
+2022-31-03 14:03:40   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 14:03:44   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 14:03:46   INFO [pages.LoginPage] : Random Book was choosen
+2022-31-03 14:03:47   INFO [pages.BookPage] : Title: Книга Программа восстановления здоровья кожи рук и ног за 28 дней
+2022-31-03 14:03:55   INFO [pages.LoginPage] : Logo was clicked
+2022-31-03 14:39:59   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 14:40:06   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 14:40:06   INFO [pages.LoginPage] : Random Book was choosen
+2022-31-03 14:40:13   INFO [pages.BookPage] : Title: Книга Программа восстановления здоровья кожи рук и ног за 28 дней
+2022-31-03 14:40:25   INFO [pages.LoginPage] : Logo was clicked
+2022-31-03 14:41:02   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 14:41:10   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 14:41:10   INFO [pages.LoginPage] : Random Book was choosen
+2022-31-03 14:41:18   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 14:41:35   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 14:41:36   INFO [pages.LoginPage] : Random Book was choosen
+2022-31-03 14:41:49   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-31-03 14:41:51   INFO [pages.LoginPage] : Login page was opened
+2022-31-03 14:41:54   INFO [pages.LoginPage] : Random Book was choosen
+2022-31-03 14:41:54   INFO [pages.BookPage] : Title: Книга Енциклопедія хоробрих воїнів
+2022-31-03 14:42:01   INFO [pages.LoginPage] : Logo was clicked
+2022-01-04 14:03:58   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 14:04:08   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 14:04:09   INFO [pages.LoginPage] : Random Book was choosen
+2022-01-04 14:04:12   INFO [pages.BookPage] : Title: Книга Енциклопедія хоробрих воїнів
+2022-01-04 14:04:27   INFO [pages.LoginPage] : Logo was clicked
+2022-01-04 14:04:27   INFO [pages.LoginPage] : Basket was clicked
+2022-01-04 14:05:21   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 14:05:30   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 14:05:30   INFO [pages.LoginPage] : Random Book was choosen
+2022-01-04 14:06:53   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 14:07:18  ERROR [pages.LoginPage] : Cant open login pageorg.openqa.selenium.WebDriverException: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51646}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1af988d44fbbdb64deaf6ba76801ba94
+2022-01-04 14:17:30   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 14:17:30  ERROR [pages.LoginPage] : Cant open login pageorg.openqa.selenium.WebDriverException: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'EPUAKYIW1683', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55797}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0586e1f29470a1f37cb2ac9ad648fc49
+2022-01-04 14:17:43   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 14:17:46   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 14:17:51   INFO [pages.LoginPage] : Random Book was choosen
+2022-01-04 14:17:51   INFO [pages.BookPage] : Title: Книга Программа восстановления здоровья кожи рук и ног за 28 дней
+2022-01-04 14:18:00   INFO [pages.LoginPage] : Logo was clicked
+2022-01-04 14:18:00   INFO [pages.LoginPage] : Basket was clicked
+2022-01-04 14:18:28   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 14:18:36   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 14:18:36   INFO [pages.LoginPage] : Random Book was choosen
+2022-01-04 14:18:55   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 14:19:05   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 14:19:05   INFO [pages.LoginPage] : Random Book was choosen
+2022-01-04 14:19:28   INFO [pages.LoginPage] : Logo was clicked
+2022-01-04 14:19:28   INFO [pages.LoginPage] : Basket was clicked
+2022-01-04 14:19:30   INFO [pages.BasketPage] : Items are deleted
+2022-01-04 14:19:30   INFO [pages.BasketPage] : Alert is displayed[[ChromeDriver: chrome on WINDOWS (a3a3f4aec9e3d75c4e97d2806ae24d1c)] -> xpath: //button[@class='popup_cart_item_del']]
+2022-01-04 14:21:45   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 14:21:56   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 14:21:59   INFO [pages.LoginPage] : Random Book was choosen
+2022-01-04 14:22:12   INFO [pages.LoginPage] : Logo was clicked
+2022-01-04 14:22:12   INFO [pages.LoginPage] : Basket was clicked
+2022-01-04 14:22:15   INFO [pages.BasketPage] : Items are deleted
+2022-01-04 14:22:15   INFO [pages.BasketPage] : Alert is displayed[[ChromeDriver: chrome on WINDOWS (46531c5854f7838ca779aed5b45f5617)] -> xpath: //button[@class='popup_cart_item_del']]
+2022-01-04 14:23:57   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 14:24:24   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 14:24:26   INFO [pages.LoginPage] : Random Book was choosen
+2022-01-04 14:25:01   INFO [pages.LoginPage] : Logo was clicked
+2022-01-04 14:25:01   INFO [pages.LoginPage] : Basket was clicked
+2022-01-04 14:25:03   INFO [pages.BasketPage] : Items are deleted
+2022-01-04 14:25:05   INFO [pages.BasketPage] : Alert is displayed[[ChromeDriver: chrome on WINDOWS (64e5542753b6d52b76a1049305a833f4)] -> xpath: //td[@class='empty_cart_text']]
+2022-01-04 14:33:31   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 14:34:36   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 14:34:37   INFO [pages.LoginPage] : Random Book was choosen
+2022-01-04 14:34:47   INFO [homePageTests.HomePageTest] : Browser was closed
+2022-01-04 14:35:36   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 14:35:47  ERROR [pages.LoginPage] : Cant open login pageorg.openqa.selenium.WebDriverException: unknown error: cannot determine loading status
+from disconnected: unable to send message to renderer
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57924}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8e501fe2d0c5714c0a1a3f4bfd26d517
+2022-01-04 14:35:47   INFO [homePageTests.HomePageTest] : Browser was closed
+2022-01-04 14:35:53   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 14:36:25   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 14:36:34   INFO [pages.LoginPage] : Random Book was choosen
+2022-01-04 14:36:47   INFO [pages.LoginPage] : Logo was clicked
+2022-01-04 14:36:47   INFO [pages.LoginPage] : Basket was clicked
+2022-01-04 14:36:50   INFO [pages.BasketPage] : Items are deleted
+2022-01-04 14:36:51   INFO [pages.BasketPage] : Alert is displayed[[ChromeDriver: chrome on WINDOWS (a814263e353be4c160ea3a3cd6e03a96)] -> xpath: //td[@class='empty_cart_text']]
+2022-01-04 14:37:02   INFO [homePageTests.HomePageTest] : Browser was closed
+2022-01-04 14:37:33   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 14:37:42   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 14:37:42   INFO [pages.LoginPage] : Random Book was choosen
+2022-01-04 14:38:04   INFO [pages.LoginPage] : Logo was clicked
+2022-01-04 14:38:04   INFO [pages.LoginPage] : Basket was clicked
+2022-01-04 14:38:06   INFO [pages.BasketPage] : Items are deleted
+2022-01-04 14:38:08   INFO [pages.BasketPage] : Alert is displayed[[ChromeDriver: chrome on WINDOWS (17d8278b9ede0ba51c3bcf88f0275721)] -> xpath: //td[@class='empty_cart_text']]
+2022-01-04 14:39:03   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 14:39:13   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 14:39:13   INFO [pages.LoginPage] : Random Book was choosen
+2022-01-04 14:39:30   INFO [pages.LoginPage] : Logo was clicked
+2022-01-04 14:39:31   INFO [pages.LoginPage] : Basket was clicked
+2022-01-04 14:39:32   INFO [pages.BasketPage] : Items are deleted
+2022-01-04 14:39:34   INFO [pages.BasketPage] : Alert is displayed[[ChromeDriver: chrome on WINDOWS (ca8d2d47e6534e716bd726e5c5bfabd5)] -> xpath: //td[@class='empty_cart_text']]
+2022-01-04 14:44:29   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 14:45:25   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 14:45:26  ERROR [pages.LoginPage] : Cant work with elementorg.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58789}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e65406dc4631bc4a743de8ceab0c75b6
+*** Element info: {Using=xpath, value=//ul[@id='interest_products_list_homepage_neu_current']//li}
+2022-01-04 14:45:33   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 14:47:05   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 14:47:06   INFO [pages.LoginPage] : Random Book was choosen
+2022-01-04 14:47:34   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 14:47:39   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 14:47:39   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-01-04 14:47:45  ERROR [pages.HomePage] : Cant work with elementorg.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59196}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3fd0d92ddef48a8c9c6d073899aaf654
+2022-01-04 14:48:18   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 14:48:25   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 14:48:25   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-01-04 14:48:30  ERROR [pages.HomePage] : Cant work with elementorg.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59324}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 74f1c19d6bf975b1d962162d84c06181
+2022-01-04 14:49:28   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 14:50:22   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 14:50:23  ERROR [pages.HomePage] : Cant work with elementorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <li>...</li> is not clickable at point (469, 222). Other element would receive the click: <div class="modal-backdrop  in"></div>
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59510}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3fe9012ee5a53c178c1e5d68da47fc66
+2022-01-04 14:50:43   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 14:51:31   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 14:51:32   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-01-04 14:51:37  ERROR [pages.HomePage] : Cant work with elementorg.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59709}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d0e1a33686f1bf932ff113dde4b3ca58
+2022-01-04 14:55:49   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 14:56:32   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 14:56:34  ERROR [pages.LoginPage] : Cant work with elementorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <li data-product-id="1607462" class="item jcarousel-item jcarousel-item-horizontal jcarousel-item-4 jcarousel-item-4-horizontal" jcarouselindex="4" style="float: left; list-style: none; width: 166px;">...</li> is not clickable at point (1241, 756). Other element would receive the click: <div class="modal-backdrop  in"></div>
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60394}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 748cfa5d95a4c90ee855e41ddbd962bf
+2022-01-04 14:57:10   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 14:58:16   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 14:58:17  ERROR [pages.LoginPage] : Cant work with elementorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <li data-product-id="1043881" class="item jcarousel-item jcarousel-item-horizontal jcarousel-item-1 jcarousel-item-1-horizontal" jcarouselindex="1" style="float: left; list-style: none; width: 166px;">...</li> is not clickable at point (707, 756). Other element would receive the click: <div class="modal-backdrop  in"></div>
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60636}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6a9cf0e3d033af7998b59461d997cbad
+2022-01-04 15:01:12   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 15:01:39   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 15:01:48   INFO [pages.LoginPage] : Random Book was choosen
+2022-01-04 15:01:48   INFO [pages.BookPage] : Title: Книга Мій перший віммельбух. Потяги
+2022-01-04 15:06:15   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 15:06:23   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 15:09:42   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 15:10:09   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 15:10:29   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 15:11:11   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 15:11:52   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 15:12:14   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 15:12:14   INFO [pages.HomePage] : Кинг was inputted
+2022-01-04 15:12:16  ERROR [pages.HomePage] : Cant work with elementorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button type="submit" id="search_mini_form_submit" title="..." class="btn btn-search btn-info">Знайти</button> is not clickable at point (1117, 80). Other element would receive the click: <div class="grv-dialog-host"></div>
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56726}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a234e248789df86841cd26cc368bf956
+2022-01-04 15:27:53   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 15:28:12   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 15:29:24   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 15:30:17   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 15:31:23   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 15:32:40   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 15:32:59   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 15:34:33   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 15:36:34   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 15:36:37   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 15:36:49   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 15:36:57   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 15:37:22   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 15:37:29   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 15:37:51   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 15:37:57   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 15:38:29   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 15:38:38   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 15:39:02   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 15:39:26   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 15:43:16   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 15:44:26   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 15:44:37   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 15:45:38   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 15:45:38   INFO [pages.LoginPage] : Popup was clicked
+2022-01-04 15:46:58   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 15:47:13   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 15:47:13   INFO [pages.LoginPage] : Popup was clicked
+2022-01-04 15:47:50   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 15:48:05  ERROR [pages.LoginPage] : Cant open login pageorg.openqa.selenium.WebDriverException: unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61318}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 800b13940ff23eab241224e07ddb16a7
+2022-01-04 15:48:10   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 15:48:29  ERROR [pages.LoginPage] : Cant open login pageorg.openqa.selenium.WebDriverException: unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61357}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c902b74c1e1ee5263475384fdf32bbbb
+2022-01-04 15:48:36   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 15:49:41   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 15:49:41   INFO [pages.LoginPage] : Popup was clicked
+2022-01-04 15:52:02   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 15:52:52   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 15:52:52   INFO [pages.LoginPage] : Popup was clicked
+2022-01-04 15:53:37   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 15:54:40   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 15:54:40   INFO [pages.LoginPage] : Popup was clicked
+2022-01-04 15:55:38   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 15:57:07   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 15:57:07   INFO [pages.LoginPage] : Second Popup was clicked
+2022-01-04 15:57:45   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 15:58:40   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 15:58:40   INFO [pages.LoginPage] : Second Popup was clicked
+2022-01-04 16:01:02   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 16:02:03   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 16:02:04   INFO [pages.LoginPage] : Popup was clicked
+2022-01-04 16:06:54   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 16:06:59   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 16:07:36   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 16:07:43   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 16:09:05   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 16:09:23   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 16:09:23   INFO [pages.LoginPage] : Popup was clicked
+2022-01-04 16:11:19   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 16:12:30   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 16:12:30   INFO [pages.LoginPage] : Popup was clicked
+2022-01-04 16:12:30   INFO [pages.LoginPage] : Popup was clicked again
+2022-01-04 16:13:26   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 16:15:07   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 16:15:07   INFO [pages.LoginPage] : Popup was clicked
+2022-01-04 16:15:59   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 16:16:06   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 16:16:06   INFO [pages.LoginPage] : Popup was clicked
+2022-01-04 16:16:31   INFO [pages.LoginPage] : Popup was clicked again
+2022-01-04 16:17:30   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 16:17:53   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 16:17:53   INFO [pages.LoginPage] : Popup was clicked
+2022-01-04 16:19:34   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 16:20:06   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 16:20:06   INFO [pages.LoginPage] : Popup was clicked
+2022-01-04 16:20:06   INFO [pages.LoginPage] : Popup was clicked again
+2022-01-04 16:25:21   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 16:26:28   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 16:26:28   INFO [pages.LoginPage] : Popup was clicked
+2022-01-04 16:27:08   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 16:28:18   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 16:28:18   INFO [pages.LoginPage] : Popup was clicked
+2022-01-04 16:30:53   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 16:32:11   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 16:32:11   INFO [pages.LoginPage] : Popup was clicked
+2022-01-04 16:32:34   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 16:33:23   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 16:33:23   INFO [pages.LoginPage] : Popup was clicked
+2022-01-04 16:33:52   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 16:34:00   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 16:34:00   INFO [pages.LoginPage] : Popup was clicked
+2022-01-04 16:34:25   INFO [pages.LoginPage] : Popup was clicked again
+2022-01-04 16:49:06   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 16:49:44   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 16:49:44   INFO [pages.LoginPage] : Popup was clicked
+2022-01-04 16:49:45   INFO [pages.LoginPage] : Popup was clicked again
+2022-01-04 16:50:02   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 16:51:41   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 16:51:41   INFO [pages.LoginPage] : Popup was clicked
+2022-01-04 16:51:41   INFO [pages.LoginPage] : Popup was clicked again
+2022-01-04 16:52:21   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 16:53:20   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 16:53:20   INFO [pages.LoginPage] : Popup was clicked
+2022-01-04 17:00:27   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 17:01:11   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 17:04:39   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 17:05:23   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 17:06:55   INFO [pages.LoginPage] : Popup was clicked again
+2022-01-04 17:07:25   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 17:07:32   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 17:08:32   INFO [pages.LoginPage] : Popup was clicked again
+2022-01-04 17:11:43   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 17:11:50   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 17:12:50   INFO [pages.LoginPage] : Popup was clicked again
+2022-01-04 17:21:32   INFO [loginTests.LoginTest] : Browser was opened
+2022-01-04 17:21:39   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 17:21:39   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 17:21:39   INFO [pages.LoginPage] : chillywillyshpili@ukr.net was inputted
+2022-01-04 17:21:39   INFO [pages.LoginPage] : Hvq53zzz was inputted
+2022-01-04 17:21:40   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 17:21:41   INFO [pages.HomePage] : Вітаємо, Алена was displayed
+2022-01-04 17:22:46   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 17:22:54   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 17:23:05   INFO [pages.LoginPage] : Random Book was choosen
+2022-01-04 17:23:05   INFO [pages.BookPage] : Title: Книга Таємна троянда
+2022-01-04 17:23:19   INFO [pages.LoginPage] : Logo was clicked
+2022-01-04 17:23:19   INFO [pages.LoginPage] : Basket was clicked
+2022-01-04 17:23:21   INFO [pages.BasketPage] : Items are deleted
+2022-01-04 17:23:21   INFO [pages.BasketPage] : Alert is displayed
+2022-01-04 17:23:42   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 17:23:50   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 17:24:01   INFO [pages.LoginPage] : Random Book was choosen
+2022-01-04 17:24:01   INFO [pages.BookPage] : Title: Книга Программа восстановления здоровья кожи рук и ног за 28 дней
+2022-01-04 17:24:15   INFO [pages.LoginPage] : Logo was clicked
+2022-01-04 17:24:15   INFO [pages.LoginPage] : Basket was clicked
+2022-01-04 17:24:16   INFO [pages.BasketPage] : Items are deleted
+2022-01-04 17:24:16   INFO [pages.BasketPage] : Alert is displayed
+2022-01-04 17:36:25   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 17:36:34   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 17:36:42   INFO [pages.LoginPage] : Random Book was choosen
+2022-01-04 17:36:42   INFO [pages.BookPage] : Title: Книга Таємна троянда
+2022-01-04 17:37:25   INFO [pages.LoginPage] : Logo was clicked
+2022-01-04 17:37:25   INFO [pages.LoginPage] : Basket was clicked
+2022-01-04 17:37:26   INFO [pages.BasketPage] : Items are deleted
+2022-01-04 17:37:26   INFO [pages.BasketPage] : Alert is displayed
+2022-01-04 17:39:06   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 17:39:29   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 17:39:29   INFO [pages.LoginPage] : Random Book was choosen
+2022-01-04 17:39:52   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 17:40:36   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 17:40:41  ERROR [pages.LoginPage] : Cant work with elementjava.lang.IllegalArgumentException: bound must be positive
+2022-01-04 17:40:50   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 17:41:35   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 17:41:36  ERROR [pages.LoginPage] : Cant work with elementorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <li data-product-id="2209930" class="item jcarousel-item jcarousel-item-horizontal jcarousel-item-2 jcarousel-item-2-horizontal" jcarouselindex="2" style="float: left; list-style: none; width: 166px;">...</li> is not clickable at point (885, 756). Other element would receive the click: <div class="modal-backdrop  in"></div>
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60485}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a8ea9c0d6acd9755b187836337b4f23b
+2022-01-04 17:41:54   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 17:42:17   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 17:42:40   INFO [pages.LoginPage] : Random Book was choosen
+2022-01-04 17:42:40   INFO [pages.BookPage] : Title: Книга Осінні пригоди білченяти
+2022-01-04 17:43:12   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-01-04 17:43:34   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 17:43:51   INFO [pages.LoginPage] : Random Book was choosen
+2022-01-04 17:43:51   INFO [pages.BookPage] : Title: Книга Мій перший віммельбух. Потяги
+2022-01-04 17:43:51   INFO [pages.LoginPage] : Popup with discount was clicked
+2022-01-04 17:57:31   INFO [loginTests.LoginTest] : Browser was opened
+2022-01-04 17:57:38   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 17:57:38   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 17:57:39   INFO [pages.LoginPage] : chillywillyshpili@ukr.net1 was inputted
+2022-01-04 17:57:39   INFO [pages.LoginPage] : Hvq53zzz1 was inputted
+2022-01-04 17:57:39   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 17:57:39   INFO [pages.LoginPage] : Alert is displayed
+2022-01-04 17:58:14   INFO [loginTests.LoginTest] : Browser was opened
+2022-01-04 17:58:22   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 17:58:23   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 17:58:23   INFO [pages.LoginPage] : chillywillyshpili@ukr.net was inputted
+2022-01-04 17:58:23   INFO [pages.LoginPage] : Hvq53zzz was inputted
+2022-01-04 17:58:24   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 17:58:24   INFO [pages.LoginPage] : Alert is displayed
+2022-01-04 17:58:27   INFO [pages.HomePage] : Вітаємо, Алена was displayed
+2022-01-04 18:05:30   INFO [loginTests.LoginTest] : Browser was opened
+2022-01-04 18:05:38   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 18:05:38   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 18:05:38   INFO [pages.LoginPage] : chillywillyshpili@ukr.net was inputted
+2022-01-04 18:05:39   INFO [pages.LoginPage] : Hvq53zzz was inputted
+2022-01-04 18:05:39   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 18:06:13   INFO [loginTests.LoginTest] : Browser was opened
+2022-01-04 18:06:46   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 18:06:46   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 18:06:47   INFO [pages.LoginPage] : chillywillyshpili@ukr.net was inputted
+2022-01-04 18:06:47   INFO [pages.LoginPage] : Hvq53zzz was inputted
+2022-01-04 18:06:47   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 18:06:56   INFO [pages.HomePage] : Вітаємо, Алена was displayed
+2022-01-04 18:07:17   INFO [loginTests.LoginTest] : Browser was opened
+2022-01-04 18:07:57   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 18:07:58   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 18:07:58   INFO [pages.LoginPage] : chillywillyshpili@ukr.net1 was inputted
+2022-01-04 18:07:58   INFO [pages.LoginPage] : Hvq53zzz1 was inputted
+2022-01-04 18:07:58   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 18:08:54   INFO [loginTests.LoginTest] : Browser was opened
+2022-01-04 18:09:34   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 18:09:34   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 18:09:34   INFO [pages.LoginPage] : chillywillyshpili@ukr.net1 was inputted
+2022-01-04 18:09:34   INFO [pages.LoginPage] : Hvq53zzz1 was inputted
+2022-01-04 18:09:35   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 18:10:30   INFO [loginTests.LoginTest] : Browser was opened
+2022-01-04 18:11:18   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 18:11:18   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 18:11:19   INFO [pages.LoginPage] : chillywillyshpili@ukr.net1 was inputted
+2022-01-04 18:11:19   INFO [pages.LoginPage] : Hvq53zzz1 was inputted
+2022-01-04 18:11:19   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 18:11:19   INFO [pages.LoginPage] : Alert is displayed
+2022-01-04 18:11:37   INFO [loginTests.LoginTest] : Browser was opened
+2022-01-04 18:12:59   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 18:12:59   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 18:13:00   INFO [pages.LoginPage] : chillywillyshpili@ukr.net was inputted
+2022-01-04 18:13:00   INFO [pages.LoginPage] : Hvq53zzz was inputted
+2022-01-04 18:13:00   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 18:13:00   INFO [pages.LoginPage] : Alert is displayed
+2022-01-04 18:13:19   INFO [pages.HomePage] : Вітаємо, Алена was displayed
+2022-01-04 18:18:48   INFO [loginTests.LoginTest] : Browser was opened
+2022-01-04 18:18:56   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 18:18:56   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 18:18:57   INFO [pages.LoginPage] : chillywillyshpili@ukr.net was inputted
+2022-01-04 18:18:57   INFO [pages.LoginPage] : Hvq53zzz was inputted
+2022-01-04 18:18:57   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 18:19:14   INFO [loginTests.LoginTest] : Browser was opened
+2022-01-04 18:19:21   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 18:19:21   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 18:19:22   INFO [pages.LoginPage] : chillywillyshpili@ukr.net was inputted
+2022-01-04 18:19:22   INFO [pages.LoginPage] : Hvq53zzz was inputted
+2022-01-04 18:19:22   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 18:19:39   INFO [loginTests.LoginTest] : Browser was opened
+2022-01-04 18:19:47   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 18:19:47   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 18:19:47   INFO [pages.LoginPage] : chillywillyshpili@ukr.net was inputted
+2022-01-04 18:19:47   INFO [pages.LoginPage] : Hvq53zzz was inputted
+2022-01-04 18:19:47   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 18:20:17   INFO [loginTests.LoginTest] : Browser was opened
+2022-01-04 18:20:25   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 18:20:25   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 18:20:26   INFO [pages.LoginPage] : chillywillyshpili@ukr.net1 was inputted
+2022-01-04 18:20:26   INFO [pages.LoginPage] : Hvq53zzz1 was inputted
+2022-01-04 18:20:26   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 18:21:08   INFO [loginTests.LoginTest] : Browser was opened
+2022-01-04 18:21:16   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 18:21:16   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 18:21:16   INFO [pages.LoginPage] : chillywillyshpili@ukr.net1 was inputted
+2022-01-04 18:21:17   INFO [pages.LoginPage] : Hvq53zzz1 was inputted
+2022-01-04 18:21:17   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 18:22:24   INFO [loginTests.LoginTest] : Browser was opened
+2022-01-04 18:22:32   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 18:22:32   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 18:22:32   INFO [pages.LoginPage] : chillywillyshpili@ukr.net1 was inputted
+2022-01-04 18:22:33   INFO [pages.LoginPage] : Hvq53zzz1 was inputted
+2022-01-04 18:22:33   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 18:22:58   INFO [loginTests.LoginTest] : Browser was opened
+2022-01-04 18:23:05   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 18:23:05   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 18:23:05   INFO [pages.LoginPage] : chillywillyshpili@ukr.net1 was inputted
+2022-01-04 18:23:05   INFO [pages.LoginPage] : Hvq53zzz1 was inputted
+2022-01-04 18:23:05   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 18:23:35   INFO [loginTests.LoginTest] : Browser was opened
+2022-01-04 18:23:43   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 18:23:44   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 18:23:44   INFO [pages.LoginPage] : chillywillyshpili@ukr.net1 was inputted
+2022-01-04 18:23:44   INFO [pages.LoginPage] : Hvq53zzz1 was inputted
+2022-01-04 18:23:44   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 18:23:44   INFO [pages.LoginPage] : Alert was displayed
+2022-01-04 18:24:12   INFO [loginTests.LoginTest] : Browser was opened
+2022-01-04 18:24:18   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 18:24:18   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 18:24:19   INFO [pages.LoginPage] : chillywillyshpili@ukr.net1 was inputted
+2022-01-04 18:24:19   INFO [pages.LoginPage] : Hvq53zzz1 was inputted
+2022-01-04 18:24:19   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 18:24:19   INFO [pages.LoginPage] : Alert was displayed
+2022-01-04 18:24:31   INFO [loginTests.LoginTest] : Browser was opened
+2022-01-04 18:24:39   INFO [pages.LoginPage] : Login page was opened
+2022-01-04 18:24:39   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 18:24:39   INFO [pages.LoginPage] : chillywillyshpili@ukr.net was inputted
+2022-01-04 18:24:39   INFO [pages.LoginPage] : Hvq53zzz was inputted
+2022-01-04 18:24:39   INFO [pages.LoginPage] : Button was clicked
+2022-01-04 18:24:40   INFO [pages.LoginPage] : Alert was displayed
+2022-01-04 18:24:42   INFO [pages.HomePage] : Вітаємо, Алена was displayed
+2022-02-04 11:54:42   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-02-04 11:54:49   INFO [pages.LoginPage] : Login page was opened
+2022-02-04 11:55:49   INFO [pages.LoginPage] : Popup with discount was clicked
+2022-02-04 12:26:28   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-02-04 12:26:52   INFO [pages.LoginPage] : Login page was opened
+2022-02-04 12:27:52   INFO [pages.LoginPage] : Popup with discount was clicked
+2022-02-04 12:27:52   INFO [pages.HomePage] : Кинг was inputted
+2022-02-04 12:28:00   INFO [pages.HomePage] : Button was clicked
+2022-02-04 12:31:16   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-02-04 12:32:14   INFO [pages.LoginPage] : Login page was opened
+2022-02-04 12:33:15   INFO [pages.LoginPage] : Popup with discount was clicked
+2022-02-04 12:33:15   INFO [pages.HomePage] : Кинг was inputted
+2022-02-04 12:33:22   INFO [pages.HomePage] : Button was clicked
+2022-02-04 12:46:33   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-02-04 12:46:57   INFO [pages.LoginPage] : Login page was opened
+2022-02-04 12:47:07   INFO [pages.LoginPage] : Popup with discount was clicked
+2022-02-04 12:47:08   INFO [pages.HomePage] : Кинг was inputted
+2022-02-04 12:47:15   INFO [pages.HomePage] : Button was clicked
+2022-02-04 12:52:33   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-02-04 12:52:55   INFO [pages.LoginPage] : Login page was opened
+2022-02-04 12:53:05   INFO [pages.LoginPage] : Popup with discount was clicked
+2022-02-04 12:53:05   INFO [pages.HomePage] : Кинг was inputted
+2022-02-04 12:53:06  ERROR [pages.HomePage] : Cant work with elementorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button type="submit" id="search_mini_form_submit" title="..." class="btn btn-search btn-info">Знайти</button> is not clickable at point (1117, 80). Other element would receive the click: <div class="grv-dialog-host"></div>
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62952}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5d526bf8b66225b20498a6670d90b415
+2022-02-04 12:53:22   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-02-04 12:53:32   INFO [pages.LoginPage] : Login page was opened
+2022-02-04 12:53:58   INFO [pages.LoginPage] : Popup with discount was clicked
+2022-02-04 12:53:58   INFO [pages.HomePage] : Кинг was inputted
+2022-02-04 12:54:07   INFO [pages.HomePage] : Button was clicked
+2022-02-04 12:56:56   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-02-04 12:56:56  ERROR [pages.LoginPage] : Cant open login pageorg.openqa.selenium.WebDriverException: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'EPUAKYIW1683', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64140}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c38fb1b8aa8b0b8622ed1f8e79c5563f
+2022-02-04 12:57:16   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-02-04 12:57:18   INFO [pages.LoginPage] : Login page was opened
+2022-02-04 12:57:48   INFO [pages.LoginPage] : Popup with discount was clicked
+2022-02-04 12:57:48   INFO [pages.HomePage] : Кинг was inputted
+2022-02-04 12:57:49   INFO [pages.HomePage] : Button was clicked
+2022-02-04 13:14:24   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-02-04 13:14:47   INFO [pages.LoginPage] : Login page was opened
+2022-02-04 13:14:55   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-02-04 13:15:00   INFO [pages.LoginPage] : Login page was opened
+2022-02-04 13:15:28   INFO [pages.LoginPage] : Popup with discount was clicked
+2022-02-04 13:15:28   INFO [pages.HomePage] : Кинг was inputted
+2022-02-04 13:15:35   INFO [pages.HomePage] : Button was clicked
+2022-02-04 13:18:25   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-02-04 13:18:57   INFO [pages.LoginPage] : Login page was opened
+2022-02-04 13:19:13   INFO [pages.LoginPage] : Popup with discount was clicked
+2022-02-04 13:19:13   INFO [pages.HomePage] : Кинг was inputted
+2022-02-04 13:19:19   INFO [pages.HomePage] : Button was clicked
+2022-02-04 13:20:16   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-02-04 13:20:56   INFO [pages.LoginPage] : Login page was opened
+2022-02-04 13:21:10   INFO [pages.LoginPage] : Popup with discount was clicked
+2022-02-04 13:21:10   INFO [pages.HomePage] : Кинг was inputted
+2022-02-04 13:21:17   INFO [pages.HomePage] : Button was clicked
+2022-04-04 12:50:37   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-04-04 12:50:57   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-04-04 12:51:24   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-04-04 12:51:33   INFO [pages.LoginPage] : Login page was opened
+2022-04-04 12:51:56   INFO [pages.LoginPage] : Popup with discount was clicked
+2022-04-04 12:51:56   INFO [pages.HomePage] : Кинг was inputted
+2022-04-04 12:52:03   INFO [pages.HomePage] : Button was clicked
+2022-04-04 12:58:32   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-04-04 12:58:43  ERROR [pages.LoginPage] : Cant open login pageorg.openqa.selenium.WebDriverException: unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:49765}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 10cb8b1e669666ed4605e8b69fa5858c
+2022-04-04 12:58:50   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-04-04 12:59:06  ERROR [pages.LoginPage] : Cant open login pageorg.openqa.selenium.WebDriverException: unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:49838}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ac39bd23e497ae2028b25b9284a9f9d9
+2022-04-04 12:59:14   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-04-04 12:59:55   INFO [pages.LoginPage] : Login page was opened
+2022-04-04 13:00:18   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-04-04 13:01:01   INFO [pages.LoginPage] : Login page was opened
+2022-04-04 13:01:02   INFO [pages.LoginPage] : Popup with discount was clicked
+2022-04-04 13:01:02   INFO [pages.HomePage] : Кинг was inputted
+2022-04-04 13:01:03  ERROR [pages.HomePage] : Cant work with elementorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button type="submit" id="search_mini_form_submit" title="..." class="btn btn-search btn-info">Знайти</button> is not clickable at point (1117, 80). Other element would receive the click: <div class="grv-dialog-host"></div>
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57508}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4370f53aae4ed3421cbbc53a142a20d2
+2022-04-04 13:01:17   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-04-04 13:01:42   INFO [pages.LoginPage] : Login page was opened
+2022-04-04 13:01:49   INFO [pages.LoginPage] : Popup with discount was clicked
+2022-04-04 13:01:49   INFO [pages.HomePage] : Кинг was inputted
+2022-04-04 13:01:56   INFO [pages.HomePage] : Button was clicked
+2022-04-04 13:08:11   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-04-04 13:09:05   INFO [pages.LoginPage] : Login page was opened
+2022-04-04 13:09:06   INFO [pages.LoginPage] : Popup with discount was clicked
+2022-04-04 13:09:06   INFO [pages.HomePage] : Кинг was inputted
+2022-04-04 13:09:06   INFO [pages.HomePage] : Button was clicked
+2022-04-04 13:21:57   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-04-04 13:22:19   INFO [pages.LoginPage] : Login page was opened
+2022-04-04 13:22:32   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-04-04 13:22:33  ERROR [pages.LoginPage] : Cant open login pageorg.openqa.selenium.WebDriverException: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64892}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ec3ab36c396af62645f47130dbf3fd81
+2022-04-04 13:22:39   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-04-04 13:22:46   INFO [pages.LoginPage] : Login page was opened
+2022-04-04 13:23:10   INFO [pages.LoginPage] : Popup with discount was clicked
+2022-04-04 13:23:10   INFO [pages.HomePage] : Кинг was inputted
+2022-04-04 13:23:17   INFO [pages.HomePage] : Button was clicked
+2022-04-04 13:26:25   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-04-04 13:27:36   INFO [pages.LoginPage] : Login page was opened
+2022-04-04 13:27:36   INFO [pages.LoginPage] : Popup with discount was clicked
+2022-04-04 13:27:36   INFO [pages.HomePage] : Кинг was inputted
+2022-04-04 13:28:00   INFO [pages.HomePage] : Button was clicked
+2022-04-04 13:28:00   INFO [pages.BookPage] : Expected items = 29, Actual Items= 29
+2022-04-04 13:41:51   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-04-04 13:41:58   INFO [pages.LoginPage] : Login page was opened
+2022-04-04 13:43:34   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-04-04 13:43:42   INFO [pages.LoginPage] : Login page was opened
+2022-04-04 13:43:42   INFO [pages.LoginPage] : Random Book was choosen
+2022-04-04 13:44:48   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-04-04 13:44:55   INFO [pages.LoginPage] : Login page was opened
+2022-04-04 13:44:56   INFO [pages.LoginPage] : Random Book was choosen
+2022-04-04 13:44:57   INFO [pages.BookPage] : Title: Книга Таємна троянда
+2022-04-04 13:45:08   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-04-04 13:45:15   INFO [pages.LoginPage] : Login page was opened
+2022-04-04 13:45:16   INFO [pages.LoginPage] : Random Book was choosen
+2022-04-04 13:45:18   INFO [pages.BookPage] : Title: Книга Мій перший віммельбух. Потяги
+2022-04-04 13:53:39   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-04-04 13:54:02   INFO [pages.LoginPage] : Login page was opened
+2022-04-04 13:54:09   INFO [pages.LoginPage] : Random Book was choosen
+2022-04-04 13:54:10   INFO [pages.BookPage] : Title: Книга Осінні пригоди білченяти
+2022-04-04 13:54:29   INFO [pages.LoginPage] : Logo was clicked
+2022-04-04 13:54:29   INFO [pages.LoginPage] : Basket was clicked
+2022-04-04 13:54:30   INFO [pages.BasketPage] : Items are deleted
+2022-04-04 13:54:30   INFO [pages.BasketPage] : Alert is displayed
+2022-04-04 13:59:05   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-04-04 13:59:30   INFO [pages.LoginPage] : Login page was opened
+2022-04-04 13:59:30   INFO [pages.LoginPage] : Random Book was choosen
+2022-04-04 14:02:18   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-04-04 14:02:41   INFO [pages.LoginPage] : Login page was opened
+2022-04-04 14:02:42   INFO [pages.LoginPage] : Random Book was choosen
+2022-04-04 14:06:16   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-04-04 14:07:29   INFO [pages.LoginPage] : Login page was opened
+2022-04-04 14:07:52   INFO [pages.LoginPage] : Random Book was choosen
+2022-04-04 14:07:53   INFO [pages.BookPage] : Title: Книга Осінні пригоди білченяти
+2022-04-04 14:08:22   INFO [pages.LoginPage] : Logo was clicked
+2022-04-04 14:08:22   INFO [pages.LoginPage] : Basket was clicked
+2022-04-04 14:08:24   INFO [pages.BasketPage] : Items are deleted
+2022-04-04 14:08:24   INFO [pages.BasketPage] : Alert is displayed
+2022-04-04 14:27:03   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-04-04 14:27:11   INFO [pages.LoginPage] : Login page was opened
+2022-04-04 14:27:11   INFO [pages.LoginPage] : Random Book was choosen
+2022-04-04 14:27:18   INFO [pages.BookPage] : Title: Книга Енциклопедія хоробрих воїнів
+2022-04-04 14:27:31   INFO [pages.LoginPage] : Logo was clicked
+2022-04-04 14:27:32   INFO [pages.LoginPage] : Basket was clicked
+2022-04-04 14:27:33   INFO [pages.BasketPage] : Items are deleted
+2022-04-04 14:27:33   INFO [pages.BasketPage] : Alert is displayed
+2022-04-04 14:28:28   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-04-04 14:28:37   INFO [pages.LoginPage] : Login page was opened
+2022-04-04 14:28:38   INFO [pages.LoginPage] : Random Book was choosen[[[ChromeDriver: chrome on WINDOWS (255497358dea81d190b02c3c98ee1774)] -> xpath: //ul[@id='interest_products_list_homepage_neu_current']//li], [[ChromeDriver: chrome on WINDOWS (255497358dea81d190b02c3c98ee1774)] -> xpath: //ul[@id='interest_products_list_homepage_neu_current']//li], [[ChromeDriver: chrome on WINDOWS (255497358dea81d190b02c3c98ee1774)] -> xpath: //ul[@id='interest_products_list_homepage_neu_current']//li], [[ChromeDriver: chrome on WINDOWS (255497358dea81d190b02c3c98ee1774)] -> xpath: //ul[@id='interest_products_list_homepage_neu_current']//li], [[ChromeDriver: chrome on WINDOWS (255497358dea81d190b02c3c98ee1774)] -> xpath: //ul[@id='interest_products_list_homepage_neu_current']//li]]
+2022-04-04 14:28:44   INFO [pages.BookPage] : Title: Книга Енциклопедія хоробрих воїнів
+2022-04-04 14:28:57   INFO [pages.LoginPage] : Logo was clicked
+2022-04-04 14:28:58   INFO [pages.LoginPage] : Basket was clicked
+2022-04-04 14:28:59   INFO [pages.BasketPage] : Items are deleted
+2022-04-04 14:28:59   INFO [pages.BasketPage] : Alert is displayed
+2022-04-04 14:29:29   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-04-04 14:29:37   INFO [pages.LoginPage] : Login page was opened
+2022-04-04 14:29:37   INFO [pages.LoginPage] : Title4
+2022-04-04 14:29:37   INFO [pages.LoginPage] : Random Book was choosen
+2022-04-04 14:29:40   INFO [pages.BookPage] : Title: Книга Енциклопедія хоробрих воїнів
+2022-04-04 14:29:53   INFO [pages.LoginPage] : Logo was clicked
+2022-04-04 14:29:53   INFO [pages.LoginPage] : Basket was clicked
+2022-04-04 14:29:54   INFO [pages.BasketPage] : Items are deleted
+2022-04-04 14:29:54   INFO [pages.BasketPage] : Alert is displayed
+2022-04-04 15:04:25   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-04-04 15:04:33   INFO [pages.LoginPage] : Login page was opened
+2022-04-04 15:04:33   INFO [pages.LoginPage] : Random Book was choosen
+2022-04-04 15:04:37   INFO [pages.BookPage] : Title: Книга Енциклопедія хоробрих воїнів
+2022-04-04 15:21:39   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-04-04 15:21:47   INFO [pages.LoginPage] : Login page was opened
+2022-04-04 15:21:47   INFO [pages.LoginPage] : Random Book was choosen
+2022-04-04 15:21:52   INFO [pages.BookPage] : Title: Книга Программа восстановления здоровья кожи рук и ног за 28 дней
+2022-04-04 15:22:08   INFO [pages.LoginPage] : Logo was clicked
+2022-04-04 15:22:09   INFO [pages.LoginPage] : Basket was clicked
+2022-04-04 15:22:10   INFO [pages.BasketPage] : Items are deleted
+2022-04-04 15:22:10   INFO [pages.BasketPage] : Alert is displayed
+2022-05-04 17:12:12   INFO [loginTests.LoginTest] : Browser was opened
+2022-05-04 17:12:58   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:13:00  ERROR [pages.LoginPage] : Cant work with elementorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="show-modal-login" href="https://www.yakaboo.ua/ua/customer/account/login/referer/aHR0cHM6Ly93d3cueWFrYWJvby51YS91YS90c2dfY3VzdG9tZXIvYWNjb3VudC9nZW5lcmF0ZUN1c3RvbWVyTGlua3Mv/" title="Увійти до особистого кабінету">...</a> is not clickable at point (1446, 14). Other element would receive the click: <div class="modal-backdrop  in"></div>
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c17386b3aea082e2b13ffeb938ef824a, clickElement {id=62ea8566-88d7-40e4-a6d8-8349340d3ce1}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59165}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59165/devtoo..., se:cdpVersion: 100.0.4896.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (c17386b3aea082e2b13ffeb938ef824a)] -> xpath: //a[@class='show-modal-login']]
+Session ID: c17386b3aea082e2b13ffeb938ef824a
+2022-05-04 17:14:01   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:15:08   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:15:34   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:16:35   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:19:06   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:19:08   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:19:19   INFO [pages.HomePage] : Кинг was inputted
+2022-05-04 17:19:24   INFO [pages.HomePage] : Button was clicked
+2022-05-04 17:19:24   INFO [pages.BookPage] : Expected items = 29, Actual Items = 29
+2022-05-04 17:20:26   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:20:34   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:22:22   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:22:30   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:22:41   INFO [pages.HomePage] : Кинг was inputted
+2022-05-04 17:22:48   INFO [pages.HomePage] : Button was clicked
+2022-05-04 17:22:48   INFO [pages.BookPage] : Expected items = 29, Actual Items = 29
+2022-05-04 17:24:40   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:24:49   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:24:49   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 17:25:21   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:25:30   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:25:30   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 17:25:40  ERROR [pages.HomePage] : Cant work with elementorg.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2b39f4454d1fda13f93314d7890ee5e8, clickElement {id=d42d339f-68c6-4e31-8ee2-61ef1b0933c7}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51588}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51588/devtoo..., se:cdpVersion: 100.0.4896.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (2b39f4454d1fda13f93314d7890ee5e8)] -> xpath: //ul[@class='menu-first-level']//li//a]
+Session ID: 2b39f4454d1fda13f93314d7890ee5e8
+2022-05-04 17:26:03   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:26:11   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:26:11   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 17:26:21  ERROR [pages.HomePage] : Cant work with elementorg.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b1e19d0646b44a3773c8495caa36ed0d, clickElement {id=4eec55f1-164f-4614-9399-d9ba2a70aab2}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51737}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51737/devtoo..., se:cdpVersion: 100.0.4896.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (b1e19d0646b44a3773c8495caa36ed0d)] -> xpath: //ul[@class='menu-first-level']//li//a]
+Session ID: b1e19d0646b44a3773c8495caa36ed0d
+2022-05-04 17:27:07   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:27:15   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:27:21   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 17:27:31  ERROR [pages.HomePage] : Cant work with elementorg.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cb5553abd991146d900e8eab39289d77, clickElement {id=aff1e48f-b1f1-43b3-95b3-864fe3f06d93}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51888}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51888/devtoo..., se:cdpVersion: 100.0.4896.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (cb5553abd991146d900e8eab39289d77)] -> xpath: //ul[@class='menu-first-level']//li//a]
+Session ID: cb5553abd991146d900e8eab39289d77
+2022-05-04 17:30:59   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:31:16   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:31:21   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 17:31:32  ERROR [pages.HomePage] : Cant work with elementorg.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [959d907f8afe4f5956cb32ea168e16ea, clickElement {id=b1461621-c68e-4c22-b64b-4bef708a3699}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52228}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52228/devtoo..., se:cdpVersion: 100.0.4896.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (959d907f8afe4f5956cb32ea168e16ea)] -> xpath: //nav[@class='block1']//ul[@class='menu-first-level']//li]
+Session ID: 959d907f8afe4f5956cb32ea168e16ea
+2022-05-04 17:33:32   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:33:56   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:34:01   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 17:34:12  ERROR [pages.HomePage] : Cant work with elementorg.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b7fcf3c9efa0f9158f6f9f601a5f05f8, clickElement {id=6f026632-8e4f-40e8-9040-0c02921dca57}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52516}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52516/devtoo..., se:cdpVersion: 100.0.4896.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (b7fcf3c9efa0f9158f6f9f601a5f05f8)] -> xpath: //nav[@class='block1']//ul[@class='menu-first-level']//li//a]
+Session ID: b7fcf3c9efa0f9158f6f9f601a5f05f8
+2022-05-04 17:36:33   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:37:19   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:37:22   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:38:02   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:40:53   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:41:58   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:42:03   INFO [pages.HomePage] : Кинг was inputted
+2022-05-04 17:42:04  ERROR [pages.HomePage] : Cant work with elementorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button type="submit" id="search_mini_form_submit" title="..." class="btn btn-search btn-info">Знайти</button> is not clickable at point (1117, 80). Other element would receive the click: <div class="modal-backdrop  in"></div>
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [98efabc5e2f0443d5bf76a9585f70305, clickElement {id=84c3b561-21ce-4b87-9559-a4f4c87924ce}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53338}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53338/devtoo..., se:cdpVersion: 100.0.4896.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (98efabc5e2f0443d5bf76a9585f70305)] -> xpath: //button[@id='search_mini_form_submit']]
+Session ID: 98efabc5e2f0443d5bf76a9585f70305
+2022-05-04 17:46:45   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:47:10   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:47:19   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 17:47:20   INFO [pages.HomePage] : Кинг was inputted
+2022-05-04 17:47:20   INFO [pages.HomePage] : Button was clicked
+2022-05-04 17:47:27   INFO [pages.BookPage] : Expected items = 29, Actual Items = 29
+2022-05-04 17:50:28   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:51:59   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:52:05  ERROR [pages.HomePage] : Cant work with elementorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <li>...</li> is not clickable at point (469, 168). Other element would receive the click: <div class="modal-backdrop  in"></div>
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [97bc437405d960056c307781ba8e3063, clickElement {id=76ef864e-003a-41ba-bc8e-e32f8f51a9a7}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54423}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54423/devtoo..., se:cdpVersion: 100.0.4896.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (97bc437405d960056c307781ba8e3063)] -> xpath: //ul[@class='nav nav-pills nav-stacked parent-menu']//li]
+Session ID: 97bc437405d960056c307781ba8e3063
+2022-05-04 17:52:40   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:52:44   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:53:12   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 17:53:12   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 17:58:17   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:58:26   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:58:49   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 17:58:49   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 18:00:02   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:00:08   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:00:34   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 18:00:34   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 18:01:45   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:01:53   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:02:18   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 18:02:18   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 18:02:18   INFO [pages.HomePage] : Item in Second Menu was chosen
+2022-05-04 18:02:53   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:03:01   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:03:25   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 18:03:25   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 18:03:26   INFO [pages.HomePage] : Item in Second Menu was chosen161
+2022-05-04 18:05:24   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:05:47   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:05:56   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 18:05:57   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 18:05:57   INFO [pages.HomePage] : Item in Second Menu was chosen6
+2022-05-04 18:06:24   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:06:54   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:06:59   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 18:06:59   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 18:08:03   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:08:35   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:08:40   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 18:08:41   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 18:08:41   INFO [pages.HomePage] : Item in Second Menu was chosen 19
+2022-05-04 18:09:11   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:09:56   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:10:05   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 18:10:06   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 18:10:58   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:11:31   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:11:58   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:12:53   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:13:27   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:15:26   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:16:22   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:16:44   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:16:54   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 18:16:54   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 18:16:54   INFO [pages.HomePage] : Item in Second Menu was chosen 20
+2022-05-04 18:19:10   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:20:12   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:21:45   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 18:21:45   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 18:21:46   INFO [pages.HomePage] : Item in Second Menu was chosen 37
+2022-05-04 18:25:43   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:25:51   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:26:15   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 18:26:15   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 18:31:12   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:31:20   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:31:45   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 18:31:45   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 18:31:55  ERROR [pages.HomePage] : Cant work with elementorg.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [442ec8f919411972c431bb5bafd1a67c, clickElement {id=3f035dea-7c0b-494f-8f91-15da7b10a8f0}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55548}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55548/devtoo..., se:cdpVersion: 100.0.4896.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (442ec8f919411972c431bb5bafd1a67c)] -> xpath: //ul[@class='menu-first-level']//li//a]
+Session ID: 442ec8f919411972c431bb5bafd1a67c
+2022-05-04 18:32:56   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:33:03   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:33:29   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 18:33:29   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 18:33:52   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:34:14   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:34:40   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 18:34:40   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 18:35:38   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:36:04   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:36:11   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 18:36:11   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 18:36:50   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:38:24   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:38:30   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 18:38:30   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 18:38:40  ERROR [pages.HomePage] : Cant work with elementorg.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2086272128515ab817ea49039baf12ad, clickElement {id=dde90cb5-022b-4cc6-8728-fb4c23de8cfd}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56354}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56354/devtoo..., se:cdpVersion: 100.0.4896.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (2086272128515ab817ea49039baf12ad)] -> xpath: //ul[@class='menu-first-level']//li//a]
+Session ID: 2086272128515ab817ea49039baf12ad

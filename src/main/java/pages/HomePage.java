@@ -1,13 +1,12 @@
 package pages;
+
 import org.junit.Assert;
-import org.openqa.selenium.Alert;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.ExpectedConditions;
+
 import java.util.List;
-import java.util.Random;
 
 public class HomePage extends  ParentPage {
     public HomePage(WebDriver webDriver) {
@@ -21,66 +20,58 @@ public class HomePage extends  ParentPage {
     @FindBy(xpath = "//button[@class=sub-dialog-btn allow_btn")
     private WebElement popUpYes;
     @FindBy(xpath = "//ul[@class='nav nav-pills nav-stacked parent-menu']//li")
-    private WebElement upperMenu;
-    @FindBy(xpath = "//ul[@class='menu-first-level']//li")
-    private WebElement randomValue;
+    private List<WebElement> upperMenu;
+    @FindBy(xpath = "//ul[@class='menu-first-level']//li//a")
+    private List<WebElement> randomValueInSecondMenu;
     @FindBy(xpath = "//span[@data-customer='firstname']")
     private WebElement userName;
+    @FindBy(xpath = "//nav[@class='block1']//li//a")
+    private WebElement randomValue;
     public boolean isUserNameIsVisible() { //метод для обработки ексепшена(попробуй найти кнопку,если нет-верни фолс)
         try {
-            return webDriver.findElement(By.xpath("//span[@data-customer='firstname']")).isDisplayed();
+            return userName.isDisplayed();
         } catch (Exception e) {
             return false;
         }
     }
-
     public HomePage checkIsUserNameIsVisible(String userName) {//метод для обработки ексепшена(попробуй найти кнопку,если нет-верни фолс)
         Assert.assertTrue("UserName is not displayed", isUserNameIsVisible());
         logger.info(userName + " was displayed");
         return this;
     }
-
     public HomePage inputTextIntoSearchOnHomePage(String text) {
         webDriverWait.until(ExpectedConditions.visibilityOf(inputSearch));
         inputTextIntoElement(inputSearch, text);
         return this;
     }
-
-
-
     public void clickOnButtonSearch() {
         ClickOnElement(buttonSearch);
     }
 
-    public void clickOnPopUp() {
-        webDriverWait.until(ExpectedConditions.visibilityOf(alert));
-        Alert alert = webDriver.switchTo().alert();
-        alert.accept();
-
-    }
-    public void checkSearchOnHomePage() {
-        inputTextIntoSearchOnHomePage("Кинг");
-        //clickOnPopUp();
-        clickOnButtonSearch();
-    }
-    public HomePage chooseRandomItemInMenu() {
-        List<WebElement> listings = webDriver.findElements(By.xpath("//ul[@class='nav nav-pills nav-stacked parent-menu']//li"));
-        Random r = new Random();
-        int randomValue = r.nextInt(listings.size()); //Getting a random value that is between 0 and (list's size)-1
-        listings.get(randomValue).click();
-        logger.info("Item in Menu was chosen");
+  public void checkSearchOnHomePage() {
+       inputTextIntoSearchOnHomePage("Кинг");
+       clickOnButtonSearch();
+  }
+    public HomePage chooseRandomItemInFirst() {
+        clickOnRandomItem(upperMenu);
+        logger.info("Random Item was clicked in first menu");
         return this;
     }
-    public HomePage chooseRandomItemInSecondMenu() {
-        List<WebElement> listings = webDriver.findElements(By.xpath("//nav[@class='block1']//li"));
-        Random r = new Random();
-        int randomValue = r.nextInt(listings.size());
-        listings.get(randomValue).click();
-        logger.info("Item in Second Menu was chosen");
+    public HomePage chooseRandomItemInSecond() {
+        webDriverWait.until(ExpectedConditions.elementToBeClickable((WebElement) randomValueInSecondMenu));
+        clickOnRandomItem( randomValueInSecondMenu);
+        logger.info("Random Item was clicked in second menu");
         return this;
     }
+    }
 
-}
+//    public HomePage chooseRandomItemInSecond() {
+//        //webDriverWait.until(ExpectedConditions.visibilityOf((WebElement) randomValueInSecondMenu));
+//        clickOnRandomItem(randomValueInSecondMenu);
+//        logger.info("Random Item was clicked in first menu");
+//        return this;
+
+
 
 
 
