@@ -6,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.WebDriverWait;
-
+import java.time.Duration;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
@@ -19,11 +19,12 @@ public class ParentPage {
     WebDriverWait webDriverWait;
     WebDriverWait webDriverWait2;
 
+
     public ParentPage(WebDriver webDriver) { //передаем во все пейджи драйвер
         this.webDriver = webDriver;
         PageFactory.initElements(webDriver, this);//инизиализация элементов ФАЙНД БАЙ для всех страниц
-        webDriverWait = new WebDriverWait(webDriver, 60);
-        webDriverWait2 = new WebDriverWait(webDriver, 2);
+        webDriverWait = new WebDriverWait (webDriver, Duration.ofSeconds(30));
+        webDriverWait2 = new WebDriverWait (webDriver, Duration.ofSeconds(10));
 
     }
 
@@ -91,7 +92,10 @@ public class ParentPage {
             int size = Element.size();
             return size;
         }
+
+
     }
+
 
 
 

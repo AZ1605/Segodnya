@@ -5,23 +5,31 @@ import org.junit.Test;
 
 public class HomePageTest extends BaseTest {
     @Test
-    public void SearchOnHomePage()  {
+    public void SearchOnHomePage() throws InterruptedException {
         loginPage.openLoginPage();
+        Thread.sleep(5000);
+        loginPage.clickOnPopUp();
+        loginPage.clickOnDiscountPopUp();
         homePage.checkSearchOnHomePage();
         bookPage.checkCountOfBooks2();
 
     }
     @Test
-    public void InterestedBookOnHomePage() {
+    public void InterestedBookOnHomePage() throws InterruptedException {
         loginPage.openLoginPage();
+        Thread.sleep(5000);
+        loginPage.clickOnPopUp();
         loginPage.chooseRandomBookOnLoginPage();
         bookPage.checkTitle();
-        //loginPage.clickOnDiscountPopUp();
+        loginPage.clickOnPopUp();
         bookPage.AddBookToBasket();
     }
     @Test
-    public void SelectInCatalogeOnHomePage() {
+    public void SelectInCatalogeOnHomePage() throws InterruptedException {
         loginPage.openLoginPage();
+        Thread.sleep(5000);
+        loginPage.clickOnPopUp();
+        loginPage.clickOnDiscountPopUp();
         homePage.chooseRandomItemInFirst();
         homePage.chooseRandomItemInSecond();
     }

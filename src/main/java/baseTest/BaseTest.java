@@ -10,7 +10,7 @@ import pages.BookPage;
 import pages.HomePage;
 import pages.LoginPage;
 
-import java.util.concurrent.TimeUnit;
+import java.time.Duration;
 
 public class BaseTest {
     WebDriver webDriver; //driver variable needs in every page, so introduced before all
@@ -25,7 +25,7 @@ public class BaseTest {
         WebDriverManager.chromedriver().setup();
         webDriver= new ChromeDriver();
         webDriver.manage().window().maximize();
-        webDriver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
+        webDriver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
         logger.info("Browser was opened");
         loginPage = new LoginPage(webDriver); //give for login page driver
         homePage = new HomePage(webDriver);

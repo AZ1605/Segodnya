@@ -6,7 +6,10 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
+import java.time.Duration;
 import java.util.List;
 public class LoginPage extends ParentPage {
     @FindBy(xpath = "//input[@name='login[username]']")
@@ -29,6 +32,8 @@ public class LoginPage extends ParentPage {
     private WebElement alert;
     @FindBy(xpath = "//div[@class='name']")
     private WebElement randomInterestedBookTitleOnHomepage;
+    @FindBy(xpath = "//button[@class='close popup_cart_close']")
+    private WebElement discountPopUp;
 
     public LoginPage(WebDriver webDriver) {
         super(webDriver);
@@ -94,13 +99,21 @@ public class LoginPage extends ParentPage {
     }
 
     public LoginPage clickOnPopUp() {
-        webDriver.findElement(By.xpath("//*[@class=\"grv-dialog-host\"]")).getShadowRoot().findElement(By.cssSelector("div > div > div.buttons-wrapper > button.sub-dialog-btn.allow_btn")).click();
+        WebDriverWait webDriverWait = new WebDriverWait(webDriver, Duration.ofSeconds(5));
+        WebElement buttonOk = webDriver.findElement(By.xpath("//*[@class=\"grv-dialog-host\"]")).getShadowRoot()
+                .findElement(By.cssSelector("div > div > div.buttons-wrapper > button.sub-dialog-btn.allow_btn"));
+        webDriverWait.until(ExpectedConditions.visibilityOf(buttonOk));
+        buttonOk.click();
         return this;
     }
 
-    public boolean checkIsAlertIsVisible() {//метод для обработки ексепшена(попробуй найти кнопку,если нет-верни фолс)
+    public boolean checkIsAlertIsVisible() {
         Assert.assertFalse("Alert is not displayed", alertMessage.isDisplayed());
         logger.info("Alert was displayed");
         return false;
+    }
+    public void clickOnDiscountPopUp() {
+        webDriverWait.until(ExpectedConditions.visibilityOf(discountPopUp));
+        ClickOnElement(discountPopUp);
     }
 }

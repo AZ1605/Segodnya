@@ -854,3 +854,236 @@ Session ID: ec3ab36c396af62645f47130dbf3fd81
 2022-04-04 14:29:53   INFO [pages.LoginPage] : Basket was clicked
 2022-04-04 14:29:54   INFO [pages.BasketPage] : Items are deleted
 2022-04-04 14:29:54   INFO [pages.BasketPage] : Alert is displayed
+2022-04-04 15:04:25   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-04-04 15:04:33   INFO [pages.LoginPage] : Login page was opened
+2022-04-04 15:04:33   INFO [pages.LoginPage] : Random Book was choosen
+2022-04-04 15:04:37   INFO [pages.BookPage] : Title: Книга Енциклопедія хоробрих воїнів
+2022-04-04 15:21:39   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-04-04 15:21:47   INFO [pages.LoginPage] : Login page was opened
+2022-04-04 15:21:47   INFO [pages.LoginPage] : Random Book was choosen
+2022-04-04 15:21:52   INFO [pages.BookPage] : Title: Книга Программа восстановления здоровья кожи рук и ног за 28 дней
+2022-04-04 15:22:08   INFO [pages.LoginPage] : Logo was clicked
+2022-04-04 15:22:09   INFO [pages.LoginPage] : Basket was clicked
+2022-04-04 15:22:10   INFO [pages.BasketPage] : Items are deleted
+2022-04-04 15:22:10   INFO [pages.BasketPage] : Alert is displayed
+2022-05-04 17:12:12   INFO [loginTests.LoginTest] : Browser was opened
+2022-05-04 17:12:58   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:13:00  ERROR [pages.LoginPage] : Cant work with elementorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="show-modal-login" href="https://www.yakaboo.ua/ua/customer/account/login/referer/aHR0cHM6Ly93d3cueWFrYWJvby51YS91YS90c2dfY3VzdG9tZXIvYWNjb3VudC9nZW5lcmF0ZUN1c3RvbWVyTGlua3Mv/" title="Увійти до особистого кабінету">...</a> is not clickable at point (1446, 14). Other element would receive the click: <div class="modal-backdrop  in"></div>
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c17386b3aea082e2b13ffeb938ef824a, clickElement {id=62ea8566-88d7-40e4-a6d8-8349340d3ce1}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59165}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59165/devtoo..., se:cdpVersion: 100.0.4896.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (c17386b3aea082e2b13ffeb938ef824a)] -> xpath: //a[@class='show-modal-login']]
+Session ID: c17386b3aea082e2b13ffeb938ef824a
+2022-05-04 17:14:01   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:15:08   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:15:34   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:16:35   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:19:06   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:19:08   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:19:19   INFO [pages.HomePage] : Кинг was inputted
+2022-05-04 17:19:24   INFO [pages.HomePage] : Button was clicked
+2022-05-04 17:19:24   INFO [pages.BookPage] : Expected items = 29, Actual Items = 29
+2022-05-04 17:20:26   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:20:34   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:22:22   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:22:30   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:22:41   INFO [pages.HomePage] : Кинг was inputted
+2022-05-04 17:22:48   INFO [pages.HomePage] : Button was clicked
+2022-05-04 17:22:48   INFO [pages.BookPage] : Expected items = 29, Actual Items = 29
+2022-05-04 17:24:40   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:24:49   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:24:49   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 17:25:21   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:25:30   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:25:30   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 17:25:40  ERROR [pages.HomePage] : Cant work with elementorg.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2b39f4454d1fda13f93314d7890ee5e8, clickElement {id=d42d339f-68c6-4e31-8ee2-61ef1b0933c7}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51588}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51588/devtoo..., se:cdpVersion: 100.0.4896.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (2b39f4454d1fda13f93314d7890ee5e8)] -> xpath: //ul[@class='menu-first-level']//li//a]
+Session ID: 2b39f4454d1fda13f93314d7890ee5e8
+2022-05-04 17:26:03   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:26:11   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:26:11   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 17:26:21  ERROR [pages.HomePage] : Cant work with elementorg.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b1e19d0646b44a3773c8495caa36ed0d, clickElement {id=4eec55f1-164f-4614-9399-d9ba2a70aab2}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51737}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51737/devtoo..., se:cdpVersion: 100.0.4896.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (b1e19d0646b44a3773c8495caa36ed0d)] -> xpath: //ul[@class='menu-first-level']//li//a]
+Session ID: b1e19d0646b44a3773c8495caa36ed0d
+2022-05-04 17:27:07   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:27:15   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:27:21   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 17:27:31  ERROR [pages.HomePage] : Cant work with elementorg.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cb5553abd991146d900e8eab39289d77, clickElement {id=aff1e48f-b1f1-43b3-95b3-864fe3f06d93}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51888}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51888/devtoo..., se:cdpVersion: 100.0.4896.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (cb5553abd991146d900e8eab39289d77)] -> xpath: //ul[@class='menu-first-level']//li//a]
+Session ID: cb5553abd991146d900e8eab39289d77
+2022-05-04 17:30:59   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:31:16   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:31:21   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 17:31:32  ERROR [pages.HomePage] : Cant work with elementorg.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [959d907f8afe4f5956cb32ea168e16ea, clickElement {id=b1461621-c68e-4c22-b64b-4bef708a3699}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52228}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52228/devtoo..., se:cdpVersion: 100.0.4896.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (959d907f8afe4f5956cb32ea168e16ea)] -> xpath: //nav[@class='block1']//ul[@class='menu-first-level']//li]
+Session ID: 959d907f8afe4f5956cb32ea168e16ea
+2022-05-04 17:33:32   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:33:56   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:34:01   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 17:34:12  ERROR [pages.HomePage] : Cant work with elementorg.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b7fcf3c9efa0f9158f6f9f601a5f05f8, clickElement {id=6f026632-8e4f-40e8-9040-0c02921dca57}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52516}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52516/devtoo..., se:cdpVersion: 100.0.4896.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (b7fcf3c9efa0f9158f6f9f601a5f05f8)] -> xpath: //nav[@class='block1']//ul[@class='menu-first-level']//li//a]
+Session ID: b7fcf3c9efa0f9158f6f9f601a5f05f8
+2022-05-04 17:36:33   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:37:19   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:37:22   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:38:02   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:40:53   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:41:58   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:42:03   INFO [pages.HomePage] : Кинг was inputted
+2022-05-04 17:42:04  ERROR [pages.HomePage] : Cant work with elementorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button type="submit" id="search_mini_form_submit" title="..." class="btn btn-search btn-info">Знайти</button> is not clickable at point (1117, 80). Other element would receive the click: <div class="modal-backdrop  in"></div>
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [98efabc5e2f0443d5bf76a9585f70305, clickElement {id=84c3b561-21ce-4b87-9559-a4f4c87924ce}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53338}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53338/devtoo..., se:cdpVersion: 100.0.4896.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (98efabc5e2f0443d5bf76a9585f70305)] -> xpath: //button[@id='search_mini_form_submit']]
+Session ID: 98efabc5e2f0443d5bf76a9585f70305
+2022-05-04 17:46:45   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:47:10   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:47:19   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 17:47:20   INFO [pages.HomePage] : Кинг was inputted
+2022-05-04 17:47:20   INFO [pages.HomePage] : Button was clicked
+2022-05-04 17:47:27   INFO [pages.BookPage] : Expected items = 29, Actual Items = 29
+2022-05-04 17:50:28   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:51:59   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:52:05  ERROR [pages.HomePage] : Cant work with elementorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <li>...</li> is not clickable at point (469, 168). Other element would receive the click: <div class="modal-backdrop  in"></div>
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [97bc437405d960056c307781ba8e3063, clickElement {id=76ef864e-003a-41ba-bc8e-e32f8f51a9a7}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54423}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54423/devtoo..., se:cdpVersion: 100.0.4896.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (97bc437405d960056c307781ba8e3063)] -> xpath: //ul[@class='nav nav-pills nav-stacked parent-menu']//li]
+Session ID: 97bc437405d960056c307781ba8e3063
+2022-05-04 17:52:40   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:52:44   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:53:12   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 17:53:12   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 17:58:17   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 17:58:26   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 17:58:49   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 17:58:49   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 18:00:02   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:00:08   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:00:34   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 18:00:34   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 18:01:45   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:01:53   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:02:18   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 18:02:18   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 18:02:18   INFO [pages.HomePage] : Item in Second Menu was chosen
+2022-05-04 18:02:53   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:03:01   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:03:25   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 18:03:25   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 18:03:26   INFO [pages.HomePage] : Item in Second Menu was chosen161
+2022-05-04 18:05:24   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:05:47   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:05:56   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 18:05:57   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 18:05:57   INFO [pages.HomePage] : Item in Second Menu was chosen6
+2022-05-04 18:06:24   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:06:54   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:06:59   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 18:06:59   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 18:08:03   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:08:35   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:08:40   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 18:08:41   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 18:08:41   INFO [pages.HomePage] : Item in Second Menu was chosen 19
+2022-05-04 18:09:11   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:09:56   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:10:05   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 18:10:06   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 18:10:58   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:11:31   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:11:58   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:12:53   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:13:27   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:15:26   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:16:22   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:16:44   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:16:54   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 18:16:54   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 18:16:54   INFO [pages.HomePage] : Item in Second Menu was chosen 20
+2022-05-04 18:19:10   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:20:12   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:21:45   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 18:21:45   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 18:21:46   INFO [pages.HomePage] : Item in Second Menu was chosen 37
+2022-05-04 18:25:43   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:25:51   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:26:15   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 18:26:15   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 18:31:12   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:31:20   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:31:45   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 18:31:45   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 18:31:55  ERROR [pages.HomePage] : Cant work with elementorg.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [442ec8f919411972c431bb5bafd1a67c, clickElement {id=3f035dea-7c0b-494f-8f91-15da7b10a8f0}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55548}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55548/devtoo..., se:cdpVersion: 100.0.4896.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (442ec8f919411972c431bb5bafd1a67c)] -> xpath: //ul[@class='menu-first-level']//li//a]
+Session ID: 442ec8f919411972c431bb5bafd1a67c
+2022-05-04 18:32:56   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:33:03   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:33:29   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 18:33:29   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 18:33:52   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:34:14   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:34:40   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 18:34:40   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 18:35:38   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:36:04   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:36:11   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 18:36:11   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 18:36:50   INFO [homePageTests.HomePageTest] : Browser was opened
+2022-05-04 18:38:24   INFO [pages.LoginPage] : Login page was opened
+2022-05-04 18:38:30   INFO [pages.LoginPage] : Button was clicked
+2022-05-04 18:38:30   INFO [pages.HomePage] : Random Item was clicked in first menu
+2022-05-04 18:38:40  ERROR [pages.HomePage] : Cant work with elementorg.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=100.0.4896.60)
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'EPUAKYIW1683', ip: '192.168.1.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2086272128515ab817ea49039baf12ad, clickElement {id=dde90cb5-022b-4cc6-8728-fb4c23de8cfd}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\OLENA_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56354}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56354/devtoo..., se:cdpVersion: 100.0.4896.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (2086272128515ab817ea49039baf12ad)] -> xpath: //ul[@class='menu-first-level']//li//a]
+Session ID: 2086272128515ab817ea49039baf12ad

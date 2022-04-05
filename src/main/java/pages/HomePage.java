@@ -7,6 +7,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 
 import java.util.List;
+
 public class HomePage extends  ParentPage {
     public HomePage(WebDriver webDriver) {
         super(webDriver);
@@ -24,6 +25,8 @@ public class HomePage extends  ParentPage {
     private List<WebElement> randomValueInSecondMenu;
     @FindBy(xpath = "//span[@data-customer='firstname']")
     private WebElement userName;
+    @FindBy(xpath = "//nav[@class='block1']//li//a")
+    private WebElement randomValue;
     public boolean isUserNameIsVisible() { //метод для обработки ексепшена(попробуй найти кнопку,если нет-верни фолс)
         try {
             return userName.isDisplayed();
@@ -55,12 +58,20 @@ public class HomePage extends  ParentPage {
         return this;
     }
     public HomePage chooseRandomItemInSecond() {
-        webDriverWait.until(ExpectedConditions.visibilityOf((WebElement) randomValueInSecondMenu));
-        clickOnRandomItem(randomValueInSecondMenu);
-        logger.info("Random Item was clicked in first menu");
+
+        clickOnRandomItem( randomValueInSecondMenu);
+        logger.info("Random Item was clicked in second menu");
         return this;
     }
-}
+    }
+
+//    public HomePage chooseRandomItemInSecond() {
+//        //webDriverWait.until(ExpectedConditions.visibilityOf((WebElement) randomValueInSecondMenu));
+//        clickOnRandomItem(randomValueInSecondMenu);
+//        logger.info("Random Item was clicked in first menu");
+//        return this;
+
+
 
 
 

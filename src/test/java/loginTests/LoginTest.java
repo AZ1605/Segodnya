@@ -3,7 +3,7 @@ import baseTest.BaseTest;
 import org.junit.Test;
 
 public class LoginTest extends BaseTest {
-    final String userName= "Вітаємо, Алена";
+    final String userName= "Вітаємо, Алена1";
 
     @Test
     public void validLoginTest() {
@@ -22,7 +22,6 @@ public class LoginTest extends BaseTest {
             loginPage.enterPasswordIntoPasswordField("Hvq53zzz1");
             loginPage.clickOnButtonSubmit();
             loginPage.checkIsAlertIsVisible();
-
     }
 
     }
