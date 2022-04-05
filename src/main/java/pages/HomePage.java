@@ -58,7 +58,7 @@ public class HomePage extends  ParentPage {
         return this;
     }
     public HomePage chooseRandomItemInSecond() {
-
+        webDriverWait.until(ExpectedConditions.elementToBeClickable((WebElement) randomValueInSecondMenu));
         clickOnRandomItem( randomValueInSecondMenu);
         logger.info("Random Item was clicked in second menu");
         return this;
